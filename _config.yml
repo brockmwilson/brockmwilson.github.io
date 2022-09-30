@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Brock M. Wilson"
-  avatar           : "/images/photo-9-20-22.jpg"
+  avatar           : "photo-9-20-22.jpg"
   bio              : "Economics Ph.D. Student at the University of Oregon"
   location         : "Eugene, OR"
   employer         :
