@@ -181,18 +181,11 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-<<<<<<< HEAD
+  portfolio:
     output: false
     permalink: /:collection/:path/
-  # talks:
-    output: false
-=======
-  #   output: false
-  #   permalink: /:collection/:path/
   talks:
     output: true
->>>>>>> 4d606215fc92c776d9014ccc5ecaa05c5f4d2ae4
     permalink: /:collection/:path/
 
 
