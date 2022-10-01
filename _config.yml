@@ -182,10 +182,17 @@ collections:
     output: true
     permalink: /:collection/:path/
   # portfolio:
+<<<<<<< HEAD
     output: false
     permalink: /:collection/:path/
   # talks:
     output: false
+=======
+  #   output: false
+  #   permalink: /:collection/:path/
+  talks:
+    output: true
+>>>>>>> 4d606215fc92c776d9014ccc5ecaa05c5f4d2ae4
     permalink: /:collection/:path/
 
 
@@ -228,22 +235,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: false
-  #     comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: false
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
