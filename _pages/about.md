@@ -10,7 +10,7 @@ redirect_from:
 
 ![](images/cambodia.JPG)
 
-I am a fourth year Ph.D. student at the University of Oregon. My research interests are in Labor, Health and Behavioral Economics. More recent research has been on pensions and labor outcomes; selection into motorcycling; and wildfire. 
+I am a fourth year Ph.D. student at the University of Oregon. My research interests are in labor, health and behavioral economics. More recent research has been on pensions and labor outcomes; selection into motorcycling; and wildfire. 
 
 Outside of academia, you can find me cooking, camping, traveling, or writing fiction. 
 
