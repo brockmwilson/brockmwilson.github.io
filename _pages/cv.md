@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-!(Download CV here)[files/Resume.pdf]
+[Download CV here](http://brockmwilson.github.io/files/pension-labor.pdf)
