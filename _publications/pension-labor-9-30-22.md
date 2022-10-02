@@ -1,7 +1,7 @@
 ---
 title: "How does pension generosity affect labor?"
-collection: research
-permalink: /research/2022-9-30-pension-labor
+collection: publications
+permalink: /publications/2022-9-30-pension-labor
 excerpt: 'I exploit a policy change for U.S. federal workers’ pension benefits to provide estimates of the effect of pension generosity on retirement, retention and recruitment.'
 date: 2022-9-30
 venue: 'Unpublished'
