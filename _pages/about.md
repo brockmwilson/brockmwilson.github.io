@@ -4,7 +4,7 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 header:
-  image: ./assets/images/teton-pano.jpg
+  image: /Users/Brock/Desktop/Econ-Website/brockmwilson.github.io/images/teton-pano.jpg
 redirect_from: 
   - /about/
   - /about.html
