@@ -2,9 +2,9 @@
 title: "Introduction to Microeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-summer-ec-201
+permalink: /teaching/2021-summer-ec-201
 venue: "University of Oregon"
-date: 2019-06-01
+date: 2021-06-01
 location: "Eugene, OR"
 ---
 
