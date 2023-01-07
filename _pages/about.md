@@ -3,6 +3,8 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
+header:
+  image: /images/teton-pano.jpg
 redirect_from: 
   - /about/
   - /about.html
