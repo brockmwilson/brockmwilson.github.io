@@ -14,11 +14,11 @@ I am a fourth year Ph.D. student at the University of Oregon. My research intere
 
 More generally, my research interests involve these questions:
 
-1.) What drives differences in labor outcomes?
+  - What drives differences in labor outcomes?
 
-2.) What factors into an individual's decision to work?
+  - What factors into an individual's decision to work?
 
-3.) How can we improve labor markets?
+  - How can we improve labor markets?
 
 I aim to answer these questions using standard empirical methods however some questions require a theoretical approach to understand.
 
