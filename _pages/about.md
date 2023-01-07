@@ -4,7 +4,13 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 header:
-  image: /assets/images/teton-pano-small.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/teton-pano-small.jpg
+  actions:
+    - label: "Download"
+      url: "#test-link"
+excerpt: "Bacon ipsum dolor sit amet"
 redirect_from: 
   - /about/
   - /about.html
