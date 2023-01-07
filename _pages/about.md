@@ -4,7 +4,7 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: /assets/images/teton-pano-small.jpg
+  image: teton-pano-small.jpg
 redirect_from: 
   - /about/
   - /about.html
