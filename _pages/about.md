@@ -10,8 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-![](images/cambodia.JPG)
-
 I am a fourth year Ph.D. student at the University of Oregon. My research interests are in labor, health and behavioral economics. More recent research has been on pensions and labor outcomes; selection into motorcycling; and wildfire. 
 
 More generally, my research interests involve these questions:
