@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Microeconomics"
+title: "Introduction to Microeconomics (Online)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-summer-ec-201
