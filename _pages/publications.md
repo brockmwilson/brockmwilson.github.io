@@ -2,6 +2,8 @@
 layout: archive
 title: "Research"
 permalink: /publications/
+header:
+  image: teton-pano-small.jpg
 author_profile: true
 ---
 
