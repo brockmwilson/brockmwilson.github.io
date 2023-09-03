@@ -22,7 +22,7 @@ More generally, my research interests involve these questions:
 
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
 
-Research interests outside of this include: selection into motorcycling, wildfires, political regimes.
+Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes.
 
 Outside of academia, you can find me cooking, camping, traveling, or writing fiction.
 
