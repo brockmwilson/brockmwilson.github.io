@@ -10,17 +10,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student at the University of Oregon. My research interests are in labor, health and behavioral economics. More recent research has been on pensions and labor outcomes; selection into motorcycling; and wildfire. 
+I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, behavioral economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. 
 
 More generally, my research interests involve these questions:
 
-  - What drives differences in labor outcomes?
-
-  - What factors into an individual's decision to work?
-
   - How can we improve labor markets?
 
-I aim to answer these questions using standard empirical methods however some questions require a theoretical approach to understand.
+  - What drives differences in labor outcomes?
+
+  - Where are labor policies effective?
+
+I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
+
+Research interests outside of this include: selection into motorcycling, wildfires, political regimes.
 
 Outside of academia, you can find me cooking, camping, traveling, or writing fiction.
 
