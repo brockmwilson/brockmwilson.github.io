@@ -5,7 +5,6 @@ permalink: /publications/pension-labor-outcomes
 excerpt: 'I exploit a policy change for U.S. federal workers’ pension benefits to provide estimates of the effect of pension generosity on retirement, retention and recruitment.'
 date: 2022-9-30
 venue: 'Working Paper'
-paperurl: 'http://brockmwilson.github.io/files/Wilson-Pension-Labor-Outcomes_20230818.pdf'
 ---
 
 ![](images/pension-labor-outcomes2.png)
