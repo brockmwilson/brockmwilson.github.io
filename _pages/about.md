@@ -18,7 +18,7 @@ More generally, my research interests involve these questions:
 
   - What drives differences in labor outcomes?
 
-  - Where are labor policies effective?
+  - Where are labor policies most effective?
 
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
 
