@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 header:
   image: teton-pano-small.jpg
 redirect_from: 
