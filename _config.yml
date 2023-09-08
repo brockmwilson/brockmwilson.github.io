@@ -6,6 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # https://brockmwilson.github.io
 
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Brock M. Wilson"
