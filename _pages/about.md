@@ -11,19 +11,27 @@ redirect_from:
 
 <font size="4"> 
 I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, behavioral economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. 
+</font> 
 
+<font size="4"> 
 More generally, my research interests involve these questions:
+</font> 
 
-  - How can we improve labor markets?
+  - <font size="4"> How can we improve labor markets? </font> 
 
-  - What drives differences in labor outcomes?
+  - <font size="4"> What drives differences in labor outcomes? </font> 
 
-  - Where are labor policies most effective?
+  - <font size="4"> Where are labor policies most effective? </font> 
 
+<font size="4">
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
+</font> 
 
+<font size="4">
 Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes.
+</font> 
 
+<font size="4">
 Outside of academia, you can find me cooking, camping, traveling, or writing fiction.
 </font> 
 
