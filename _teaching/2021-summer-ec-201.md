@@ -3,6 +3,8 @@ title: "Introduction to Microeconomics (Online)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-summer-ec-201
+header:
+  image: teton-pano-small.jpg
 venue: "University of Oregon"
 date: 2021-06-01
 location: "Eugene, OR"
