@@ -19,6 +19,7 @@ redirect_from:
 </div>
 
 <style type="text/css">
+
 .page {
     width: 100%;
     float: right;
@@ -30,12 +31,14 @@ redirect_from:
 
 </style>
 
-<img style="float: left; margin: 0px 20px" src="./images/grad-photo-final.jpg" width="400" 
-    border-radius = "15px">
+<img 
+  style="float: left; margin: 0px 20px; border-radius: 15px"
+  src="./images/grad-photo-final.jpg" 
+  width="400">
 
-I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
+My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
 
-<ul style="padding-left:450px">
+<ul style="padding-left:500px">
   <li>How can we improve labor markets?</li>
   <li>What drives differences in labor outcomes?</li>
   <li>Where are labor policies most effective?</li>
