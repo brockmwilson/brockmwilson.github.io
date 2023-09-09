@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<style type = "text/css";
+<article class = "page";
     width: 100%;
     float: right;
     margin-right: 0;
