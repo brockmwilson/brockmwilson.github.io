@@ -14,16 +14,7 @@ redirect_from:
 [Download CV here](http://brockmwilson.github.io/files/Resume.pdf)
 
 <iframe src = "https://brockwilson.net/files/Resume.pdf" 
-                width="800"
-                height="500">
+                width="100%"
+                height="100%">
         </iframe>
       
-
-<object data = "https://brockwilson.net/files/Resume.pdf" 
-                width="800"
-                height="500"> 
-                </object>
-                
-<embed src= "https://brockwilson.net/files/Resume.pdf" 
-               width="800"
-               height="500">
