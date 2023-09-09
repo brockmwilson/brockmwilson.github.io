@@ -7,26 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: left; margin: 0px 20px" src="./images/grad-photo-final.jpg" width="400">
+<img style="float: left; margin: 0px 20px" src="./images/grad-photo3.jpg" width="400">
 
-<p style="font-size: 22px;">
-I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics, and econometrics. More recently, my research has focused on pensions and labor outcomes, understanding the impact of affirmative action for disabilities, and the effects of retaliation law on firm dynamics. In general, my research explores the following questions:
-</p>
+I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
 
-<ul style="font-size: 22px;">
-  <li>How can we improve labor markets?</li>
-  <li>What drives differences in labor outcomes?</li>
-  <li>Where are labor policies most effective?</li>
-</ul>
+  - How can we improve labor markets?
 
-<p style="font-size: 22px;">
-I aim to address these questions using empirical methods, while also employing theoretical models to gain a deeper understanding of real-world phenomena.
-</p>
+  - What drives differences in labor outcomes?
 
-<p style="font-size: 22px;">
-My research interests extend beyond economics and encompass topics such as selection into motorcycling, wildfires, and the impact of political regimes.
-</p>
+  - Where are labor policies most effective?
 
-<p style="font-size: 22px;">
-Outside of academia, you can find me enjoying activities such as cooking, camping, traveling, and reading/writing contemporary fiction.
-</p>
+I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
+
+Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes.
+
+Outside of academia, you can find me cooking, camping, traveling, or reading/writing contemporary fiction.
+
