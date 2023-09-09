@@ -36,7 +36,6 @@ redirect_from:
   src="./images/grad-photo-final.jpg" 
   width="400">
 
-
 My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
 
 <ul style="padding-left:500px">
