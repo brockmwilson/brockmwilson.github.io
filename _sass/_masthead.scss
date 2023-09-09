@@ -73,9 +73,10 @@
     max-width: $x-large;
   }
 
+  margin: 0 auto; /* Center horizontally */
   display: flex;
-  justify-content: center; /* Center the content horizontally */
-  align-items: center; /* Center the content vertically */
+  flex-direction: column; /* To center vertically */
+  justify-content: center; /* Center the content vertically */
 
   nav {
     z-index: 10;
