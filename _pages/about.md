@@ -9,27 +9,24 @@ redirect_from:
 
 <img style="float: left; margin: 0px 20px" src="./images/grad-photo3.jpg" width="400">
 
-<font size="4.5"> 
-I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
-</font> 
+<p style="font-size: 18px;">
+I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics, and econometrics. More recently, my research has focused on pensions and labor outcomes, understanding the impact of affirmative action for disabilities, and the effects of retaliation law on firm dynamics. In general, my research explores the following questions:
+</p>
 
-  - <font size="4.5"> How can we improve labor markets? </font> 
+<ul style="font-size: 18px;">
+  <li>How can we improve labor markets?</li>
+  <li>What drives differences in labor outcomes?</li>
+  <li>Where are labor policies most effective?</li>
+</ul>
 
-  - <font size="4.5"> What drives differences in labor outcomes? </font> 
+<p style="font-size: 18px;">
+I aim to address these questions using empirical methods, while also employing theoretical models to gain a deeper understanding of real-world phenomena.
+</p>
 
-  - <font size="4.5"> Where are labor policies most effective? </font> 
+<p style="font-size: 18px;">
+My research interests extend beyond economics and encompass topics such as selection into motorcycling, wildfires, and the impact of political regimes.
+</p>
 
-<font size="4.5">
-I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
-</font> 
-
-<font size="4.5">
-Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes.
-</font> 
-
-<br>
-
-<font size="4.5">
-Outside of academia, you can find me cooking, camping, traveling, or reading/writing contemporary fiction.
-</font> 
-
+<p style="font-size: 18px;">
+Outside of academia, you can find me enjoying activities such as cooking, camping, traveling, and reading/writing contemporary fiction.
+</p>
