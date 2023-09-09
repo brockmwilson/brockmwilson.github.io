@@ -24,9 +24,9 @@ redirect_from:
 I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
 
 <ul>
-  <li>How can we improve labor markets?</li>
-  <li>What drives differences in labor outcomes?</li>
-  <li>Where are labor policies most effective?</li>
+  &emsp; <li>How can we improve labor markets?</li>
+  &emsp; <li>What drives differences in labor outcomes?</li>
+  &emsp; <li>Where are labor policies most effective?</li>
 </ul>
 
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
