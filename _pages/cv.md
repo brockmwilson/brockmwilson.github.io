@@ -16,3 +16,6 @@ redirect_from:
 <iframe style="position: absolute; height: 100%" src= "files/Resume.pdf" />
 
 <object data="files/Resume.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+
+<embed src="http://brockmwilson.github.io/files/Resume.pdf" width="500" height="375" 
+ type="application/pdf">
