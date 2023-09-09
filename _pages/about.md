@@ -9,7 +9,11 @@ redirect_from:
 
 <style type="text/css">
 .page {
-width: 100%;
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
 }
 </style>
 
