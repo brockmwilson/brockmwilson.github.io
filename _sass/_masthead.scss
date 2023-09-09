@@ -3,8 +3,9 @@
    ========================================================================== */
 
 .masthead {
+  /*position: relative; */
   -webkit-box-align:center;
-  -webkit-box-pack:center;
+  /*-webkit-box-pack:center; */
   display:-webkit-box;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
