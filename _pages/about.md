@@ -23,8 +23,6 @@ I am an economics Ph.D. candidate at the University of Oregon. My research inter
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
 </font> 
 
-<br>
-
 <font size="4.5">
 Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes.
 </font> 
