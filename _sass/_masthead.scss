@@ -3,9 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  /*position: relative; */
-  display: flex;
-  justify-content: center;
+  position: relative; 
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -44,7 +42,7 @@
 }
 
 .masthead__menu-item {
-  display: block;
+  display: inline-block;
   list-style-type: none;
   white-space: nowrap;
 
