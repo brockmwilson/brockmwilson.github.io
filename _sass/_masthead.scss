@@ -61,6 +61,9 @@
   animation-delay: 0.15s;
   z-index: 20;
   margin: 0 auto; /* Center horizontally */
+  width: 100%; /* Ensure full width */
+  max-width: $x-large; /* Set your desired max width */
+  text-align: center; /* Center the content horizontally */
 }
 
 .masthead__inner-wrap {
