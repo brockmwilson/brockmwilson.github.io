@@ -3,9 +3,9 @@
    ========================================================================== */
 
 .masthead {
-  position: relative; 
-  width: 100%;
-  text-align: center;
+  /*position: relative; */
+  display: flex;
+  justify-content: center;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
