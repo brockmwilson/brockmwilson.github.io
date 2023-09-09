@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<article class = "page";
-    width: 100%;
-    float: right;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0; >
+<style type="text/css">
+.main-container {
+width: 100%;
+}
+</style>
 
 <img style="float: left; margin: 0px 20px" src="./images/grad-photo-final.jpg" width="350">
 
