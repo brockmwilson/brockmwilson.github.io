@@ -22,6 +22,7 @@ redirect_from:
 
 .page {
     width: 100%;
+    min-width: 500px;
     float: right;
     margin-right: 0;
     padding-left: 0;
@@ -34,7 +35,7 @@ redirect_from:
 <img 
   style="float: left; margin: 0px 20px; border-radius: 15px; border: 5px solid #8c94aa;"
   src="./images/grad-photo-final.jpg" 
-  width="400">
+  width="30%">
 
 My research interests are in labor economics, public economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. More generally, my research interests involve these questions:
 
