@@ -46,7 +46,7 @@ My research interests are in labor economics, public economics and econometrics.
 
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
 
-Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes. Please feel free to email me at: <a href = "mailto: bwilson@uoregon.edu">bwilson@uoregon.edu</a>
+Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes. Please feel free to email me at: <a style = "color: #2b3742" href = "mailto: bwilson@uoregon.edu">bwilson@uoregon.edu</a>
 
 Outside of academia, you can find me cooking, camping, traveling, or reading/writing contemporary fiction.
 
