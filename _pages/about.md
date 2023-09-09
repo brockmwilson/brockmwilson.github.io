@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: ""
 excerpt: "About me"
 author_profile: false
-header:
-  image: teton-pano-small.jpg
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<img style="float: left;" src="./images/grad-photo-final.jpg" width="300">
+<img style="float: left;" src="./images/grad-photo-final.jpg" width="300" HSPACE=”30”>
 
 I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, behavioral economics and econometrics. More recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. 
 
