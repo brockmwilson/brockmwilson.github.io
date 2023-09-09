@@ -15,4 +15,4 @@ redirect_from:
 
 <iframe style="position: absolute; height: 100%" src= "files/Resume.pdf" />
 
-<object data="pdf.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+<object data="files/Resume.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
