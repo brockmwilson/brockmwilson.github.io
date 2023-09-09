@@ -14,7 +14,9 @@ redirect_from:
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;
+    font-size: 15px;
 }
+
 </style>
 
 <img style="float: left; margin: 0px 20px" src="./images/grad-photo-final.jpg" width="350">
