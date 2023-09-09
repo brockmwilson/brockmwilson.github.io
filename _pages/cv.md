@@ -13,17 +13,17 @@ redirect_from:
 
 [Download CV here](http://brockmwilson.github.io/files/Resume.pdf)
 
-<iframe src = "http://brockmwilson.github.io/files/Resume.pdf" 
+<iframe src = "https://brockwilson.net/files/Resume.pdf" 
                 width="800"
                 height="500">
         </iframe>
       
 
-<object data = "http://brockmwilson.github.io/files/Resume.pdf" 
+<object data = "https://brockwilson.net/files/Resume.pdf" 
                 width="800"
                 height="500"> 
                 </object>
                 
-<embed src= "http://brockmwilson.github.io/files/Resume.pdf" 
+<embed src= "https://brockwilson.net/files/Resume.pdf" 
                width="800"
                height="500">
