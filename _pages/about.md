@@ -32,6 +32,6 @@ Research interests outside of this include: selection into motorcycling, wildfir
 </font> 
 
 <font size="4.5">
-Outside of academia, you can find me cooking, camping, traveling, or writing fiction.
+Outside of academia, you can find me cooking, camping, traveling, or reading/writing contemporary fiction.
 </font> 
 
