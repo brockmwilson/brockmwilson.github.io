@@ -51,8 +51,7 @@
     font-weight: 700;
   }
 }
-*/
-.masthead {
+*/.masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -62,6 +61,7 @@
   z-index: 20;
   margin: 0 auto; /* Center horizontally */
   color: navy; /* Text color set to navy */
+  background-color: navy; /* Background color set to navy */
 }
 
 .masthead__inner-wrap {
@@ -74,11 +74,10 @@
     max-width: $x-large;
   }
 
-  margin: 0 auto; /* Center horizontally */
   display: flex;
   flex-direction: column; /* To center vertically */
   justify-content: center; /* Center the content vertically */
-  color: navy; /* Text color set to navy */
+  color: white; /* Text color set to white */
 
   nav {
     z-index: 10;
@@ -104,6 +103,7 @@
   display: inline-block;
   list-style-type: none;
   white-space: nowrap;
+  color: navy; /* Text color set to navy for menu items */
 
   &--lg {
     padding-right: 2em;
