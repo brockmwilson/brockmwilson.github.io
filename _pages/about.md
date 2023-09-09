@@ -19,8 +19,6 @@ I am an economics Ph.D. candidate at the University of Oregon. My research inter
 
   - <font size="4.5"> Where are labor policies most effective? </font> 
 
-<br>
-
 <font size="4.5">
 I aim to answer these questions using empirical methods however I also employ theoretical models to better understand real world phenomena.
 </font> 
