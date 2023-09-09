@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <style type="text/css">
-.main-container {
+.page {
 width: 100%;
 }
 </style>
