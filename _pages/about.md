@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: left; margin: 0px 20px" src="./images/grad-photo3.jpg" width="400">
+<img style="float: left; margin: 0px 20px" src="./images/grad-photo-final.jpg" width="400">
 
 <p style="font-size: 18px;">
 I am an economics Ph.D. candidate at the University of Oregon. My research interests are in labor economics, public economics, and econometrics. More recently, my research has focused on pensions and labor outcomes, understanding the impact of affirmative action for disabilities, and the effects of retaliation law on firm dynamics. In general, my research explores the following questions:
