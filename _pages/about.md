@@ -15,7 +15,7 @@ redirect_from:
 </style>
   
 <div class="center-text">
-  <p style="font-size: 24px;">Ph.D. Candidate at the University of Oregon</p>
+  <p style="font-size: 26px; font-family: bold;">Ph.D. Candidate at the University of Oregon</p>
 </div>
 
 <style type="text/css">
@@ -26,7 +26,7 @@ redirect_from:
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 </style>
