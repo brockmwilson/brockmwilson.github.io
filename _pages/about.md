@@ -7,6 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+    /* Center-align the text */
+    .center-text {
+      text-align: center;
+    }
+</style>
+  
+<div class="center-text">
+  <p style="font-size: 24px;">Ph.D. Candidate at the University of Oregon</p>
+</div>
+
 <style type="text/css">
 .page {
     width: 100%;
