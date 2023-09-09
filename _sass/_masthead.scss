@@ -60,6 +60,8 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  margin: 0 auto; /* Center horizontally */
+  color: navy; /* Text color set to navy */
 }
 
 .masthead__inner-wrap {
@@ -94,6 +96,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    text-align: center; /* Center menu items horizontally */
   }
 }
 
