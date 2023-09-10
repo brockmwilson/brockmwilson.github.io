@@ -7,8 +7,6 @@ header:
 author_profile: true
 ---
 
-abcd
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -19,4 +17,6 @@ abcd
   {% include archive-single.html %}
 {% endfor %}
 
-Abcd
+Measuring anticipatory behavior of pension policy
+
+Affirmative action for people with disabilities: who gets hired?
