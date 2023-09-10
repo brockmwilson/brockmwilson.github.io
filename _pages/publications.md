@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<p style="font-size: 1.25em; text-decoration: underline;"> Measuring anticipatory behavior of pension policy</p>
+<p style="font-size: 22.5px; text-decoration: underline;"> Measuring anticipatory behavior of pension policy</p>
 
 <p style="font-size: 1.25em;"> Affirmative action for people with disabilities: who gets hired?</p>
 
