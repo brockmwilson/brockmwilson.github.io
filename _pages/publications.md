@@ -21,4 +21,3 @@ author_profile: true
 
 <p style="font-size: 1.25em;"> Affirmative action for people with disabilities: who gets hired?</p>
 
-Affirmative action for people with disabilities: who gets hired?
