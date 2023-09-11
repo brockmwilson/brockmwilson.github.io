@@ -19,5 +19,7 @@ author_profile: true
 
 <p style="font-size: 1.25em; text-decoration: underline; font-weight: bold;"> Measuring anticipatory behavior of pension policy</p>
 
-<p style="font-size: 1.25em; text-decoration: underline; font-weight: bold;"> Affirmative action for people with disabilities: who gets hired?</p>
+<p style="font-size: 1.25em; text-decoration: underline; font-weight: bold;"> Affirmative action for people with disabilities: who gets hired? (with Glen Waddell) </p>
+
+<p style="font-size: 1.25em; text-decoration: underline; font-weight: bold;"> A Second Chance at Financial Inclusion: The Impact of Repayment Plans and Incentives on Delinquent Digital Borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn) </p>
 
