@@ -22,7 +22,7 @@ redirect_from:
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 </style>
