@@ -18,7 +18,10 @@ author_profile: true
 {% endfor %}
 
 <p style="font-size: 1.25em; text-decoration: underline; font-weight: bold;"> 
-<a href="url">How does pension generosity affect labor?</a></p>
+<a href="http://brockmwilson.github.io/files/Wilson-Pension-Labor-Outcomes_20230818.pdf">
+How does pension generosity affect labor?
+</a>
+</p>
 
 <p style="font-size: 6; font-style: italic;"> Under review</p>
 
