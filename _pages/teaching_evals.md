@@ -53,9 +53,9 @@ border-radius: 15px
 
 <div class="container">
 <center style = "font-size:30px; color:black; font-weight: bold">Inclusiveness of this course</center>
-        <a style = "font-style: italic">Positive</a><div class="sidebar sb1" style = "color: #F5F5F5; font-size:30px">56</div>
-        <a style = "font-style: italic">Neutral</a><div class="sidebar sb2" style = "color: #F5F5F5; font-size:30px">14</div>
-        <a style = "font-style: italic">Needs Improvement</a><div class="sidebar sb3" style = "color: #F5F5F5; font-size:30px">1</div>
+        <span style = "font-style: italic">Positive</a><div class="sidebar sb1" style = "color: #F5F5F5; font-size:30px">56</div>
+        <span style = "font-style: italic">Neutral</a><div class="sidebar sb2" style = "color: #F5F5F5; font-size:30px">14</div>
+        <span style = "font-style: italic">Needs Improvement</a><div class="sidebar sb3" style = "color: #F5F5F5; font-size:30px">1</div>
     </div>
 
 
