@@ -51,10 +51,17 @@ border-radius: 15px
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Inclusion of class</center>
         <a style = "font-style: italic; vertical-align: middle;">Positive</a>
-        <div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">10</div>
+        <div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        56
+        </div>
         <a style = "font-style: italic">Neutral</a>
-        <div class="sidebarReview sb2" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">10</div>
-        <a style = "font-style: italic">Needs Improvement</a><div class="sidebarReview sb3" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">10</div>
+        <div class="sidebarReview sb2" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        14
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        1
+        </div>
     </div>
 
 
