@@ -50,15 +50,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Inclusiveness</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         56
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         14
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         1
         </div>
@@ -90,15 +90,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Support from the instructor</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         56
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         13
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         2
         </div>
@@ -132,15 +132,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Feedback provided</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         36
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         21
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         14
         </div>
@@ -173,15 +173,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Clarity of assignment instructions and grading</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         43
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         14
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         13
         </div>
@@ -214,15 +214,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Degree to which the course includes active learning</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         47
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         15
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         9
         </div>
@@ -255,15 +255,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Instructor communication</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         61
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         8
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         2
         </div>
@@ -296,15 +296,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Organization of the course</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         56
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         12
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         3
         </div>
@@ -337,15 +337,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Relevance of the course content</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         61
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         8
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         1
         </div>
@@ -378,15 +378,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Assignments or projects in this course</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         56
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         12
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         3
         </div>
@@ -420,15 +420,15 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Accessibility of the course</center>
-        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         59
         </div>
-        <a style = "font-style: italic">Neutral</a>
+        <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         7
         </div>
-        <a style = "font-style: italic">Needs Improvement</a>
+        <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         3
         </div>
