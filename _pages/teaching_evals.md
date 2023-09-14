@@ -4,76 +4,58 @@ permalink: /teaching/teaching-evaluations
 
 <p style = "font-size: 1.563em; font-weight: bold">Teaching Evaluations</p>
 
-<head>
-    <title>Horizontal Bar Graph with Button</title>
-    <style>
-        /* CSS for styling the horizontal bar graph */
-        .graph-container {
-            position: relative;
-            width: 400px;
-            height: 300px;
-            border: 1px solid #ccc;
-            margin: 20px auto;
-        }
 
-        .bar {
-            position: absolute;
-            height: 20px;
-            background-color: #3498db;
-            transition: width 0.5s;
-        }
+<style>
+body {
+  font-family: Georgia;
+}
 
-        .y-axis-label {
-            position: absolute;
-            top: 10px;
-            left: -40px;
-            text-align: right;
-        }
+.container {
+  display: flex;
+  flex-flow: column wrap;
+  background-color: lightgray;
+  margin: 5%;
+  padding: 1%;
+  width: 80vw;
+border-radius: 10px
+}
 
-        .x-axis-label {
-            text-align: center;
-            margin-top: 10px;
-        }
+.sidebar {
+  background-color: #2b3742;
+  flex-grow: 1;
+  margin: 1%;
+  padding: 0.5%;
+  height: 10vh;
+  text-align: center;
+}
 
-        /* CSS for styling the button */
-        .graph-button {
-            display: block;
-            margin: 10px auto;
-            padding: 10px 20px;
-            background-color: #3498db;
-            color: #fff;
-            border: none;
-            cursor: pointer;
-        }
-    </style>
-</head>
-<body>
-    <button class="graph-button" onclick="toggleGraph()">Toggle Graph</button>
+.sb1 {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
 
-    <div class="graph-container" style="display: none;">
-        <!-- Bars -->
-        <div class="bar" style="width: 100px; bottom: 10px;"></div>
-        <div class="bar" style="width: 150px; bottom: 40px;"></div>
-        <div class="bar" style="width: 80px; bottom: 70px;"></div>
-        <div class="bar" style="width: 120px; bottom: 100px;"></div>
-        <div class="bar" style="width: 200px; bottom: 130px;"></div>
+.sb2 {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
 
-        <!-- Y-axis labels -->
-        <div class="y-axis-label">Label 1</div>
-        <div class="y-axis-label">Label 2</div>
-        <div class="y-axis-label">Label 3</div>
-        <div class="y-axis-label">Label 4</div>
-        <div class="y-axis-label">Label 5</div>
+.sb3 {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
 
-        <!-- X-axis label -->
-        <div class="x-axis-label">X-axis</div>
+
+</style>
+
+<div class="container">
+<center style = "font-size:30px; color:black; font-weight: bold">Inclusiveness of this course</center>
+        <a style = "font-style: italic">Positive</a><div class="sidebar sb1" style = "color: #F5F5F5; font-size:30px">56</div>
+        <a style = "font-style: italic">Neutral</a><div class="sidebar sb2" style = "color: #F5F5F5; font-size:30px">14</div>
+        <a style = "font-style: italic">Needs Improvement</a><div class="sidebar sb3" style = "color: #F5F5F5; font-size:30px">1</div>
     </div>
 
-    <script>
-        // JavaScript code for button functionality
-        function toggleGraph() {
-            const graphContainer = document.querySelector('.graph-container');
-            graphContainer.style.display = graphContainer.style.display === 'none' ? 'block' : 'none';
-        }
-    </script>
-</body>
+
+
