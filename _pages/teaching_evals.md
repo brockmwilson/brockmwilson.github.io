@@ -23,7 +23,7 @@ border-radius: 10px
   flex-grow: 1;
   margin: 1%;
   padding: 0.5%;
-  height: 10vh;
+  height: 7vh;
   text-align: center;
 }
 
