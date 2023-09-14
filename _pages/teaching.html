@@ -40,12 +40,22 @@ This course will introduce basic economic concepts and thinking to understand hu
     <title>Reviews Dropdown</title>
     <style>
         /* Style the button */
-        .toggle-button {
+        .toggle-button, .eval-button {
             background-color: #2b3742;
             color: white;
             border: none;
             padding: 10px 20px;
             cursor: pointer;
+   width: 200px;
+   margin: 0 auto;
+    display: inline;
+        }
+
+ /* CSS for styling the buttons */
+        .button-container {
+           width: 200px;
+  margin: 0 auto;
+ display: inline;
         }
 
         /* Style the reviews dropdown */
@@ -65,7 +75,8 @@ This course will introduce basic economic concepts and thinking to understand hu
 <body>
     <div class="review-dropdown">
         <button class="toggle-button">Show Reviews</button>
-        <div class="reviews">
+        <a style="color:white; text-decoration:none" href="https://brockwilson.net/teaching/teaching-evaluations"><button class="eval-button">Evaluations</button></a>
+    <div class="reviews">
             <p style = "font-weight: bold">Departmental review </p>
             <p style = "font-style: italic">Overall, my evaluation is that you are an excellent teacher with tremendous promise to be one of the best. You have a clear, comfortable teaching style that kept the lecture going at a brisk and enjoyable pace. Having taught this course myself, I know that it is a challenge to convey the breadth of the field while keeping the discussion focused and analytical. You did great on that front! I also liked how you drew the class into a discussion about policies to encourage schooling in developing countries and incentives households face in sending their children to school. Your slides were clear, with the right amount of detail on each.</p>
             

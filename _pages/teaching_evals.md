@@ -4,7 +4,7 @@ permalink: /teaching/teaching-evaluations
 
 <p style = "font-size: 1.563em; font-weight: bold">Teaching Evaluations</p>
 
-
+<html>
 <style>
 body {
   padding: 20px;
@@ -223,5 +223,5 @@ body {
         }
     </script>
 </body>
-
+</html>
 
