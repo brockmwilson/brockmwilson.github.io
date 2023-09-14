@@ -29,46 +29,31 @@ The objective of this course is to provide some understanding into these stark, 
 This course will introduce basic economic concepts and thinking to understand human and firm behavior. The goal for this course is to understand these principles and apply them to healthcare, labor, environmental policy, education, etc. By the end, students should aim to use basic economic principles to describe and test economic phenomena.
 </p> 
 
-document.addEventListener("DOMContentLoaded", function () {
-    const toggleButton = document.querySelector(".toggle-button");
-    const reviews = document.querySelector(".reviews");
-
-    toggleButton.addEventListener("click", function () {
-        // Toggle the "visible" class on the reviews div
-        reviews.classList.toggle("visible");
-
-        // Change the button text based on the reviews' visibility
-        if (reviews.classList.contains("visible")) {
-            toggleButton.textContent = "Hide Reviews";
-        } else {
-            toggleButton.textContent = "Show Reviews";
-        }
-    });
-});
-
-.reviews {
-    display: none;
-}
-
-/* Style the button */
-.toggle-button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-}
-
-/* Style the reviews when they are visible */
-.reviews.visible {
-    display: block;
-}
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reviews Dropdown</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Initially hide the reviews */
+        .reviews {
+            display: none;
+        }
+
+        /* Style the button */
+        .toggle-button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        /* Style the reviews when they are visible */
+        .reviews.visible {
+            display: block;
+        }
+    </style>
 </head>
 <body>
     <div class="review-dropdown">
@@ -79,5 +64,22 @@ document.addEventListener("DOMContentLoaded", function () {
             <p>Review 3: This is the third review.</p>
         </div>
     </div>
-    <script src="script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const toggleButton = document.querySelector(".toggle-button");
+            const reviews = document.querySelector(".reviews");
+
+            toggleButton.addEventListener("click", function () {
+                // Toggle the "visible" class on the reviews div
+                reviews.classList.toggle("visible");
+
+                // Change the button text based on the reviews' visibility
+                if (reviews.classList.contains("visible")) {
+                    toggleButton.textContent = "Hide Reviews";
+                } else {
+                    toggleButton.textContent = "Show Reviews";
+                }
+            });
+        });
+    </script>
 </body>
