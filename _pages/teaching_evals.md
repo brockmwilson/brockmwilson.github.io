@@ -49,7 +49,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Inclusion of class</center>
+<center style = "font-size:30px; color:black; font-weight: bold">Inclusiveness</center>
         <a style = "font-style: italic; vertical-align: middle;">Positive</a>
         <div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
         56
@@ -63,6 +63,384 @@ border-radius: 15px
         1
         </div>
     </div>
+
+<br>
+
+<style>
+
+.sb1a {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2a {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3a {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Support from the instructor</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        56
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        13
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        2
+        </div>
+    </div>
+
+
+
+<br>
+
+<style>
+
+.sb1b {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2b {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3b {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Feedback provided</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        36
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        21
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        14
+        </div>
+    </div>
+
+
+<br>
+
+<style>
+
+.sb1e {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2e {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3e {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Clarity of assignment instructions and grading</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        43
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        14
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        13
+        </div>
+    </div>
+
+
+<br>
+
+<style>
+
+.sb1f {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2f {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3f {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Degree to which the course includes active learning</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        15
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        14
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        9
+        </div>
+    </div>
+
+
+<br>
+
+<style>
+
+.sb1h {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2h {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3h {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Instructor communication</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        61
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        8
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        2
+        </div>
+    </div>
+
+
+<br>
+
+<style>
+
+.sb1i {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2i {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3i {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Organization of the course</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        56
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        12
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        3
+        </div>
+    </div>
+
+
+<br>
+
+<style>
+
+.sb1j {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2j {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3j {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Relevance of the course content</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        61
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        8
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        1
+        </div>
+    </div>
+
+
+<br>
+
+<style>
+
+.sb1k {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2k {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3k {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Assignments or projects in this course</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        59
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        7
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        3
+        </div>
+    </div>
+
+
+
+<br>
+
+<style>
+
+.sb1l {
+  flex-grow: 0;
+  width: 60%;
+border-radius: 15px
+}
+
+.sb2l {
+  flex-grow: 0;
+  width: 70%;
+border-radius: 15px
+}
+
+.sb3l {
+  flex-grow: 0;
+  width: 80%;
+border-radius: 15px
+}
+
+</style>
+
+<div class="containerReview">
+<center style = "font-size:30px; color:black; font-weight: bold">Accessibility of the course</center>
+        <a style = "font-style: italic; vertical-align: middle;">Positive</a>
+        <div class="sidebarReview sb1l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        56
+        </div>
+        <a style = "font-style: italic">Neutral</a>
+        <div class="sidebarReview sb2l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        14
+        </div>
+        <a style = "font-style: italic">Needs Improvement</a>
+        <div class="sidebarReview sb3l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
+        1
+        </div>
+    </div>
+
+
+
+
+
+
+
+
 
 
 
