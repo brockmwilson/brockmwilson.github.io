@@ -29,19 +29,19 @@ border-radius: 10px
 
 .sb1 {
   flex-grow: 0;
-  width: 60%;
+  width: 81.2%;
 border-radius: 15px
 }
 
 .sb2 {
   flex-grow: 0;
-  width: 70%;
+  width: 20.3%;
 border-radius: 15px
 }
 
 .sb3 {
   flex-grow: 0;
-  width: 80%;
+  width: 1.5%;
 border-radius: 15px
 }
 
@@ -70,19 +70,19 @@ border-radius: 15px
 
 .sb1a {
   flex-grow: 0;
-  width: 60%;
+  width: 81.2%;
 border-radius: 15px
 }
 
 .sb2a {
   flex-grow: 0;
-  width: 70%;
+  width: 18.8%;
 border-radius: 15px
 }
 
 .sb3a {
   flex-grow: 0;
-  width: 80%;
+  width: 2.9%;
 border-radius: 15px
 }
 
@@ -112,19 +112,19 @@ border-radius: 15px
 
 .sb1b {
   flex-grow: 0;
-  width: 60%;
+  width: 52.2%;
 border-radius: 15px
 }
 
 .sb2b {
   flex-grow: 0;
-  width: 70%;
+  width: 30.4%;
 border-radius: 15px
 }
 
 .sb3b {
   flex-grow: 0;
-  width: 80%;
+  width: 20.3%;
 border-radius: 15px
 }
 
@@ -153,19 +153,19 @@ border-radius: 15px
 
 .sb1e {
   flex-grow: 0;
-  width: 60%;
+  width: 62.3%;
 border-radius: 15px
 }
 
 .sb2e {
   flex-grow: 0;
-  width: 70%;
+  width: 20.3%;
 border-radius: 15px
 }
 
 .sb3e {
   flex-grow: 0;
-  width: 80%;
+  width: 18.8%;
 border-radius: 15px
 }
 
@@ -194,19 +194,19 @@ border-radius: 15px
 
 .sb1f {
   flex-grow: 0;
-  width: 60%;
+  width: 68.1%;
 border-radius: 15px
 }
 
 .sb2f {
   flex-grow: 0;
-  width: 70%;
+  width: 21.7%;
 border-radius: 15px
 }
 
 .sb3f {
   flex-grow: 0;
-  width: 80%;
+  width: 13%;
 border-radius: 15px
 }
 
@@ -216,11 +216,11 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Degree to which the course includes active learning</center>
         <a style = "font-style: italic; vertical-align: middle;">Positive</a>
         <div class="sidebarReview sb1f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        15
+        47
         </div>
         <a style = "font-style: italic">Neutral</a>
         <div class="sidebarReview sb2f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        14
+        15
         </div>
         <a style = "font-style: italic">Needs Improvement</a>
         <div class="sidebarReview sb3f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
@@ -235,19 +235,19 @@ border-radius: 15px
 
 .sb1h {
   flex-grow: 0;
-  width: 60%;
+  width: 8.8%;
 border-radius: 15px
 }
 
 .sb2h {
   flex-grow: 0;
-  width: 70%;
+  width: 11.6%;
 border-radius: 15px
 }
 
 .sb3h {
   flex-grow: 0;
-  width: 80%;
+  width: 2.9%;
 border-radius: 15px
 }
 
@@ -276,19 +276,19 @@ border-radius: 15px
 
 .sb1i {
   flex-grow: 0;
-  width: 60%;
+  width: 81.2%;
 border-radius: 15px
 }
 
 .sb2i {
   flex-grow: 0;
-  width: 70%;
+  width: 17.4%;
 border-radius: 15px
 }
 
 .sb3i {
   flex-grow: 0;
-  width: 80%;
+  width: 4.3%;
 border-radius: 15px
 }
 
@@ -317,19 +317,19 @@ border-radius: 15px
 
 .sb1j {
   flex-grow: 0;
-  width: 60%;
+  width: 88.4%;
 border-radius: 15px
 }
 
 .sb2j {
   flex-grow: 0;
-  width: 70%;
+  width: 11.6%;
 border-radius: 15px
 }
 
 .sb3j {
   flex-grow: 0;
-  width: 80%;
+  width: 1.4%;
 border-radius: 15px
 }
 
@@ -358,19 +358,19 @@ border-radius: 15px
 
 .sb1k {
   flex-grow: 0;
-  width: 60%;
+  width: 81.1%;
 border-radius: 15px
 }
 
 .sb2k {
   flex-grow: 0;
-  width: 70%;
+  width: 17.3%;
 border-radius: 15px
 }
 
 .sb3k {
   flex-grow: 0;
-  width: 80%;
+  width: 4.3%;
 border-radius: 15px
 }
 
@@ -380,11 +380,11 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Assignments or projects in this course</center>
         <a style = "font-style: italic; vertical-align: middle;">Positive</a>
         <div class="sidebarReview sb1k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        59
+        56
         </div>
         <a style = "font-style: italic">Neutral</a>
         <div class="sidebarReview sb2k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        7
+        12
         </div>
         <a style = "font-style: italic">Needs Improvement</a>
         <div class="sidebarReview sb3k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
@@ -400,19 +400,19 @@ border-radius: 15px
 
 .sb1l {
   flex-grow: 0;
-  width: 60%;
+  width: 85.5%;
 border-radius: 15px
 }
 
 .sb2l {
   flex-grow: 0;
-  width: 70%;
+  width: 10.1%;
 border-radius: 15px
 }
 
 .sb3l {
   flex-grow: 0;
-  width: 80%;
+  width: 4.3%;
 border-radius: 15px
 }
 
@@ -422,15 +422,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Accessibility of the course</center>
         <a style = "font-style: italic; vertical-align: middle;">Positive</a>
         <div class="sidebarReview sb1l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        56
+        59
         </div>
         <a style = "font-style: italic">Neutral</a>
         <div class="sidebarReview sb2l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        14
+        7
         </div>
         <a style = "font-style: italic">Needs Improvement</a>
         <div class="sidebarReview sb3l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        1
+        3
         </div>
     </div>
 
