@@ -29,17 +29,12 @@ The objective of this course is to provide some understanding into these stark, 
 This course will introduce basic economic concepts and thinking to understand human and firm behavior. The goal for this course is to understand these principles and apply them to healthcare, labor, environmental policy, education, etc. By the end, students should aim to use basic economic principles to describe and test economic phenomena.
 </p> 
 
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reviews Dropdown</title>
     <style>
-        /* Initially hide the reviews */
-        .reviews {
-            display: none;
-        }
-
         /* Style the button */
         .toggle-button {
             background-color: #007bff;
@@ -49,8 +44,16 @@ This course will introduce basic economic concepts and thinking to understand hu
             cursor: pointer;
         }
 
+        /* Style the reviews dropdown */
+        .reviews {
+            display: none;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 10px;
+        }
+
         /* Style the reviews when they are visible */
-        .reviews.visible {
+        .reviews.active {
             display: block;
         }
     </style>
@@ -70,11 +73,8 @@ This course will introduce basic economic concepts and thinking to understand hu
             const reviews = document.querySelector(".reviews");
 
             toggleButton.addEventListener("click", function () {
-                // Toggle the "visible" class on the reviews div
-                reviews.classList.toggle("visible");
-
-                // Change the button text based on the reviews' visibility
-                if (reviews.classList.contains("visible")) {
+                reviews.classList.toggle("active");
+                if (reviews.classList.contains("active")) {
                     toggleButton.textContent = "Hide Reviews";
                 } else {
                     toggleButton.textContent = "Show Reviews";
@@ -83,3 +83,4 @@ This course will introduce basic economic concepts and thinking to understand hu
         });
     </script>
 </body>
+</html>
