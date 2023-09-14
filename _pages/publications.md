@@ -28,8 +28,8 @@ img {
 {% endfor %}
 
 <p style="font-size: 1.25em; text-decoration: underline; font-weight: bold; margin-bottom: -15px"> 
-<a href="http://brockmwilson.github.io/files/Wilson-Pension-Labor-Outcomes_20230818.pdf">
-How does pension generosity affect labor?
+<a href="http://brockmwilson.github.io/files/Wilson-Pension-Labor-Outcomes_20230914.pdf">
+Retirement, retention, recruitment: Evidence from a Federal pension policy
 </a>
 </p>
 
