@@ -11,9 +11,73 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<p style="font-size: 6; font-weight: bold;"> EC201: Introduction to Microeconomics (Online) </p>
-<p style="font-size: 6; font-style: italic;"> Summer 2021 </p>
+<p style="font-size: 22px; font-weight: bold; margin-bottom: -15px">
+Economics of Development
+</p>
+<p style="font-size: 18px; font-style: italic;"> 
+Fall 2022 - Enrollment: 18; Spring 2022 - Enrollment: 50; Spring 2023 - Enrollment: 80
+</p>
 
 <p style="margin-left: 5%; margin-right: 20%;"> 
-This course will introduce basic economic concepts and thinking to understand human and firm behavior. The goal for this course is to understand these principles and apply them to healthcare, labor, environmental policy, education, etc. By the end, students should aim to use basic economic principles to describe and test economic phenomena
+The objective of this course is to provide some understanding into these stark, and occasionally not-so-obvious, problems facing the world’s people. Topics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the "North-South debate."
 </p> 
+
+<p style="font-size: 22px; font-weight: bold; margin-bottom: -15px"> EC201: Introduction to Microeconomics (Online) </p>
+<p style="font-size: 18px; font-style: italic;"> Summer 2021 - Enrollment: 34 </p>
+
+<p style="margin-left: 5%; margin-right: 20%;"> 
+This course will introduce basic economic concepts and thinking to understand human and firm behavior. The goal for this course is to understand these principles and apply them to healthcare, labor, environmental policy, education, etc. By the end, students should aim to use basic economic principles to describe and test economic phenomena.
+</p> 
+
+document.addEventListener("DOMContentLoaded", function () {
+    const toggleButton = document.querySelector(".toggle-button");
+    const reviews = document.querySelector(".reviews");
+
+    toggleButton.addEventListener("click", function () {
+        // Toggle the "visible" class on the reviews div
+        reviews.classList.toggle("visible");
+
+        // Change the button text based on the reviews' visibility
+        if (reviews.classList.contains("visible")) {
+            toggleButton.textContent = "Hide Reviews";
+        } else {
+            toggleButton.textContent = "Show Reviews";
+        }
+    });
+});
+
+.reviews {
+    display: none;
+}
+
+/* Style the button */
+.toggle-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Style the reviews when they are visible */
+.reviews.visible {
+    display: block;
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reviews Dropdown</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="review-dropdown">
+        <button class="toggle-button">Show Reviews</button>
+        <div class="reviews">
+            <p>Review 1: This is the first review.</p>
+            <p>Review 2: This is the second review.</p>
+            <p>Review 3: This is the third review.</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
