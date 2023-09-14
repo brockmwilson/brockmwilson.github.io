@@ -50,9 +50,9 @@ border-radius: 15px
 
 <div class="containerReview">
 <center style = "font-size:30px; color:black; font-weight: bold">Inclusiveness of this course</center>
-        <span style = "font-style: italic">Positive</a><div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:30px">56</div>
-        <span style = "font-style: italic">Neutral</a><div class="sidebarReview sb2" style = "color: #F5F5F5; font-size:30px">14</div>
-        <span style = "font-style: italic">Needs Improvement</a><div class="sidebarReview sb3" style = "color: #F5F5F5; font-size:30px">1</div>
+        <span style = "font-style: italic">Positive<div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:30px">56</div>
+        <span style = "font-style: italic">Neutral<div class="sidebarReview sb2" style = "color: #F5F5F5; font-size:30px">14</div>
+        <span style = "font-style: italic">Needs Improvement<div class="sidebarReview sb3" style = "color: #F5F5F5; font-size:30px">1</div>
     </div>
 
 
