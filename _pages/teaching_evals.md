@@ -235,7 +235,7 @@ border-radius: 15px
 
 .sb1h {
   flex-grow: 0;
-  width: 8.8%;
+  width: 88.4%;
 border-radius: 15px
 }
 
