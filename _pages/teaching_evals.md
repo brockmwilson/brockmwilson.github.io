@@ -4,7 +4,7 @@ permalink: /teaching/teaching-evaluations
 
 <p style = "font-size: 1.563em; font-weight: bold">Teaching Evaluations</p>
 
-These are the total of all the classes I have taught excluding online asynchronous courses (which I received no review from). Collectively, I've taught 148 students.
+Total students taught: 148 (not including asynchronous courses)
 
 <style>
 
