@@ -4,224 +4,76 @@ permalink: /teaching/teaching-evaluations
 
 <p style = "font-size: 1.563em; font-weight: bold">Teaching Evaluations</p>
 
-<html>
-<style>
-body {
-  padding: 20px;
-}
-
-/* Bar Graph Horizontal */
-.bar-graph .year {
-  -webkit-animation: fade-in-text 2.2s 0.1s forwards;
-  -moz-animation: fade-in-text 2.2s 0.1s forwards;
-  animation: fade-in-text 2.2s 0.1s forwards;
-  opacity: 0;
-}
-
-.bar-graph-horizontal {
-  max-width: 380px;
-}
-
-.bar-graph-horizontal > div {
-  float: left;
-  margin-bottom: 8px;
-  width: 100%;
-}
-
-.bar-graph-horizontal .year {
-  float: left;
-  margin-top: 18px;
-  width: 50px;
-}
-
-.bar-graph-horizontal .bar {
-  border-radius: 3px;
-  height: 55px;
-  float: left;
-  overflow: hidden;
-  position: relative;
-  width: 0;
-}
-
-.bar-graph-one .bar::after {
-  -webkit-animation: fade-in-text 2.2s 0.1s forwards;
-  -moz-animation: fade-in-text 2.2s 0.1s forwards;
-  animation: fade-in-text 2.2s 0.1s forwards;
-  color: #fff;
-  content: attr(data-percentage);
-  font-weight: 700;
-  position: absolute;
-  right: 16px;
-  top: 17px;
-}
-
-.bar-graph-one .bar-one .bar {
-  background-color: #64b2d1;
-  -webkit-animation: show-bar-one 1.2s 0.1s forwards;
-  -moz-animation: show-bar-one 1.2s 0.1s forwards;
-  animation: show-bar-one 1.2s 0.1s forwards;
-}
-
-.bar-graph-one .bar-two .bar {
-  background-color: #5292ac;
-  -webkit-animation: show-bar-two 1.2s 0.2s forwards;
-  -moz-animation: show-bar-two 1.2s 0.2s forwards;
-  animation: show-bar-two 1.2s 0.2s forwards;
-}
-
-.bar-graph-one .bar-three .bar {
-  background-color: #407286;
-  -webkit-animation: show-bar-three 1.2s 0.3s forwards;
-  -moz-animation: show-bar-three 1.2s 0.3s forwards;
-  animation: show-bar-three 1.2s 0.3s forwards;
-}
-
-.bar-graph-one .bar-four .bar {
-  background-color: #2e515f;
-  -webkit-animation: show-bar-four 1.2s 0.4s forwards;
-  -moz-animation: show-bar-four 1.2s 0.4s forwards;
-  animation: show-bar-four 1.2s 0.4s forwards;
-}
-
-/* Bar Graph Horizontal Animations */
-@-webkit-keyframes show-bar-one {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 69.6%;
-  }
-}
-
-@-webkit-keyframes show-bar-two {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 71%;
-  }
-}
-
-@-webkit-keyframes show-bar-three {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 74.7%;
-  }
-}
-
-@-webkit-keyframes show-bar-four {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 76.8%;
-  }
-}
-
-@-webkit-keyframes fade-in-text {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-    </style>
-
 <head>
-    <title>Support from the instructor</title>
+    <title>Horizontal Bar Graph with Button</title>
     <style>
-        /* CSS for styling the dropdown */
-        #dropdownContainer {
+        /* CSS for styling the horizontal bar graph */
+        .graph-container {
             position: relative;
-            display: inline-block;
+            width: 400px;
+            height: 300px;
+            border: 1px solid #ccc;
+            margin: 20px auto;
         }
 
-        #openButton {
+        .bar {
+            position: absolute;
+            height: 20px;
+            background-color: #3498db;
+            transition: width 0.5s;
+        }
+
+        .y-axis-label {
+            position: absolute;
+            top: 10px;
+            left: -40px;
+            text-align: right;
+        }
+
+        .x-axis-label {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        /* CSS for styling the button */
+        .graph-button {
+            display: block;
+            margin: 10px auto;
             padding: 10px 20px;
             background-color: #3498db;
             color: #fff;
             border: none;
             cursor: pointer;
         }
-
-        #graphDropdown {
-            display: none;
-            position: absolute;
-            top: 100%;
-            left: 0;
-            background-color: #fff;
-            border: 1px solid #ccc;
-        }
-
-        .chart {
-            width: 400px;
-            height: 300px;
-            border: 1px solid #ccc;
-            margin: 10px;
-        }
-
-        .bar {
-            width: 100px;
-            height: 20px;
-            background-color: #3498db;
-            margin-bottom: 10px;
-            position: relative;
-        }
-
-        .label {
-            font-size: 14px;
-            margin-top: 5px;
-        }
-
-        .bar-label {
-            position: absolute;
-            left: 0;
-            top: 0;
-            height: 100%;
-            width: 40px;
-            text-align: right;
-            line-height: 20px;
-            color: #fff;
-            padding-right: 10px;
-        }
     </style>
 </head>
 <body>
-    <div id="dropdownContainer">
-        <button id="openButton" onclick="toggleDropdown()">Open Bar Graph</button>
-        <div id="graphDropdown">
-            <div class="chart">
-                <section class="bar-graph bar-graph-horizontal bar-graph-one">
-  <div class="bar-one">
-    <span class="year">2019</span>
-    <div class="bar" data-percentage="300%"></div>
-  </div>
-  <div class="bar-two">
-    <span class="year">2018</span>
-    <div class="bar" data-percentage="71%"></div>
-  </div>
-  <div class="bar-three">
-    <span class="year">2017</span>
-    <div class="bar" data-percentage="74.7%"></div>
-  </div>
-</section>
+    <button class="graph-button" onclick="toggleGraph()">Toggle Graph</button>
 
+    <div class="graph-container" style="display: none;">
+        <!-- Bars -->
+        <div class="bar" style="width: 100px; bottom: 10px;"></div>
+        <div class="bar" style="width: 150px; bottom: 40px;"></div>
+        <div class="bar" style="width: 80px; bottom: 70px;"></div>
+        <div class="bar" style="width: 120px; bottom: 100px;"></div>
+        <div class="bar" style="width: 200px; bottom: 130px;"></div>
 
-            </div>
-        </div>
+        <!-- Y-axis labels -->
+        <div class="y-axis-label">Label 1</div>
+        <div class="y-axis-label">Label 2</div>
+        <div class="y-axis-label">Label 3</div>
+        <div class="y-axis-label">Label 4</div>
+        <div class="y-axis-label">Label 5</div>
+
+        <!-- X-axis label -->
+        <div class="x-axis-label">X-axis</div>
     </div>
 
     <script>
-        // JavaScript code to toggle the dropdown visibility
-        function toggleDropdown() {
-            const graphDropdown = document.getElementById('graphDropdown');
-            graphDropdown.style.display = (graphDropdown.style.display === 'block') ? 'none' : 'block';
+        // JavaScript code for button functionality
+        function toggleGraph() {
+            const graphContainer = document.querySelector('.graph-container');
+            graphContainer.style.display = graphContainer.style.display === 'none' ? 'block' : 'none';
         }
     </script>
 </body>
-</html>
-
