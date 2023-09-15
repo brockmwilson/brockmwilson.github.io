@@ -15,7 +15,7 @@ Total students taught: 148 (not including asynchronous courses)
   margin: 0%;
   padding: 1%;
   width: 50vw;
-border-radius: 10px
+border-radius: 7px
 }
 
 .sidebarReview {
@@ -92,15 +92,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Support from the instructor</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        56
+        81.2% (56)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        13
+        18.8% (13)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3a" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        2
+        2.9% (2)
         </div>
     </div>
 
@@ -134,15 +134,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Feedback provided</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        36
+        52.2% (36)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        21
+        30.4% (21)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3b" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        14
+        20.3% (14)
         </div>
     </div>
 
@@ -175,15 +175,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Clarity of assignment instructions and grading</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        43
+        62.3% (43)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        14
+        20.3% (14)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3e" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        13
+        18.8% (13)
         </div>
     </div>
 
@@ -216,15 +216,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Degree to which the course includes active learning</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        47
+        68.1% (47)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        15
+        21.7% (15)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3f" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        9
+        13% (9)
         </div>
     </div>
 
@@ -257,15 +257,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Instructor communication</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        61
+        88.4% (61)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        8
+        11.6% (8)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3h" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        2
+        2.9% (2)
         </div>
     </div>
 
@@ -298,15 +298,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Organization of the course</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        56
+        81.2% (56)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        12
+        17.4% (12)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3i" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        3
+        4.3% (3)
         </div>
     </div>
 
@@ -339,15 +339,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Relevance of the course content</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        61
+        88.4% (61)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        8
+        11.6% (8)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3j" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        1
+        1.4% (1)
         </div>
     </div>
 
@@ -380,15 +380,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Assignments or projects in this course</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        56
+        81.1% (56)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        12
+        17.3% (12)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3k" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        3
+        4.3% (3)
         </div>
     </div>
 
@@ -422,15 +422,15 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Accessibility of the course</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive</span>
         <div class="sidebarReview sb1l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        59
+        85.5% (59)
         </div>
         <span style = "font-style: italic">Neutral</span>
         <div class="sidebarReview sb2l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        7
+        10.1% (7)
         </div>
         <span style = "font-style: italic">Needs Improvement</span>
         <div class="sidebarReview sb3l" style = "color: #F5F5F5; font-size:30px; display: flex; justify-content: center; align-items: center;">
-        3
+        4.3% (3)
         </div>
     </div>
 
