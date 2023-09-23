@@ -23,7 +23,7 @@ border-radius: 7px
   flex-grow: 1;
   margin: 1%;
   padding: 0.5%;
-  height: 3vh;
+  height: 15px;
   text-align: center;
 }
 
@@ -128,7 +128,6 @@ border-radius: 15px
 <center style = "font-size:30px; color:black; font-weight: bold">Feedback provided</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 51% (36)</span>
         <div class="sidebarReview sb1b" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
-        52.2% (36)
         </div>
         <span style = "font-style: italic">Neutral: 30% (21)</span>
         <div class="sidebarReview sb2b" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
