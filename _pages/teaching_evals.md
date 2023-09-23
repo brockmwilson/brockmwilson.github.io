@@ -49,7 +49,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Inclusiveness</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Inclusiveness</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 79% (56)</span>
         <div class="sidebarReview sb1" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -86,7 +86,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Support from the instructor</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Support from the instructor</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 79% (56)</span>
         <div class="sidebarReview sb1a" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -125,7 +125,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Feedback provided</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Feedback provided</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 51% (36)</span>
         <div class="sidebarReview sb1b" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -163,7 +163,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Clarity of assignment instructions and grading</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Clarity of assignment instructions and grading</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 61% (43)</span>
         <div class="sidebarReview sb1e" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -201,7 +201,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Degree to which the course includes active learning</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Degree to which the course includes active learning</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 66% (47)</span>
         <div class="sidebarReview sb1f" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -239,7 +239,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Instructor communication</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Instructor communication</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 86% (61)</span>
         <div class="sidebarReview sb1h" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -277,7 +277,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Organization of the course</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Organization of the course</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 79% (56)</span>
         <div class="sidebarReview sb1i" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -315,7 +315,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Relevance of the course content</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Relevance of the course content</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 87% (61)</span>
         <div class="sidebarReview sb1j" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -353,7 +353,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Assignments or projects in this course</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Assignments or projects in this course</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 79% (56)</span>
         <div class="sidebarReview sb1k" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
@@ -392,7 +392,7 @@ border-radius: 15px
 </style>
 
 <div class="containerReview">
-<center style = "font-size:30px; color:black; font-weight: bold">Accessibility of the course</center>
+<center style = "font-size:24px; color:black; font-weight: bold">Accessibility of the course</center>
         <span style = "font-style: italic; vertical-align: middle;">Positive: 86% (59)</span>
         <div class="sidebarReview sb1l" style = "color: #F5F5F5; font-size:20px; display: flex; justify-content: center; align-items: center;">
         </div>
