@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://brockmwilson.github.io/files/Resume.pdf)
+[Download CV here](http://brockmwilson.github.io/files/CV_102023_wilson.pdf)
 
 <iframe src = "https://brockwilson.net/files/Resume.pdf" 
                 width="100%"
