@@ -28,7 +28,7 @@ img {
 {% endfor %}
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
-Retirement, retention, recruitment: Evidence from a Federal pension policy
+Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
 </p>
 
 <p style="font-size: 6; font-style: italic; margin-bottom: -15px">
