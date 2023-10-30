@@ -57,5 +57,5 @@ The U.S. Equal Employment Opportunity Commission issued a ruling that required f
 Why do such a high portion of digital loans result in default? We evaluate two interventions designed to stimulate the repayment of delinquent digital loans. In a field experiment with a mobile digital lender, we will offer repayment plans and a notification of conditional eligibility for a future loan to delinquent borrowers.  Using a 2x2 experimental design and administrative data from the lender, we will identify the causal impact of each intervention, on repayment rates, and future credit-seeking and repayment behavior.  Using baseline and endline phone surveys, we will also identify impacts on borrower well-being, beliefs about the value of credit, and overall financial inclusion.
 </p>
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Measuring anticipatory behavior of pension policy</p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Is it Worth the Wait? Evidence on Anticipatory Behavior and Pension Generosity </p>
 
