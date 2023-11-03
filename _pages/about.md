@@ -28,7 +28,7 @@ redirect_from:
 </style>
 
 <img 
-  style="float: left; margin: 0px 20px; border-radius: 15px; border: 5px solid #8c94aa;"
+  style="float: left; margin: 0px 20px; border-radius: 15px; border: 5px solid #8c94aa; background-image: ./images/grad-photo-final-low-res.jpg"
   src="./images/grad-photo-final.jpg" 
   width="45%">
 
