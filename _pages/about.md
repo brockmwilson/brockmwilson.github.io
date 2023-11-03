@@ -28,9 +28,8 @@ redirect_from:
 </style>
 
 <img 
-  style="float: left; margin: 0px 20px; border-radius: 15px; border: 5px solid #8c94aa;"
+  style="float: left; margin: 0px 20px; border-radius: 15px; border: 5px solid #8c94aa; background:url(https://brockwilson.net/images/grad-photo-final.jpg)"
   src="./images/grad-photo-final.jpg"
-  srcset="./images/grad-photo-final-low-res.jpg"
   width="45%">
 
 My recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. I aim to answer these questions using empirical methods. However I also employ theoretical models to better understand real world phenomena. Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes. Please feel free to email me at: <a style = "color: #2b3742" href = "mailto: bwilson@uoregon.edu">bwilson@uoregon.edu</a>
