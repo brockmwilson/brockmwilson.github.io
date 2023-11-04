@@ -37,7 +37,7 @@ Link to paper
 </a>
 </p>
 
-<p style="font-size: 6; font-style: italic;"> Submitted</p>
+<p style="font-size: 6; font-style: italic;"> Under Review</p>
 
 ![](images/pension-labor-outcomes2.png)
 
