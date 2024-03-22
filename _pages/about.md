@@ -32,7 +32,7 @@ redirect_from:
   src="./images/grad-photo-final.jpg"
   width="45%">
 
-In August, I will be joining the University of Alaska-Anchorage as a Term Research Assistant Professor. My recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. I aim to answer these questions using empirical methods. However I also employ theoretical models to better understand real world phenomena. Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes. Please feel free to email me at: <a style = "color: #2b3742" href = "mailto: bwilson@uoregon.edu">bwilson@uoregon.edu</a>
+In August, I will be joining the University of Alaska-Anchorage as a Research Assistant Professor. My recent research has been on pensions and labor outcomes; understanding the impact of affirmative action for disabilities; and the impact of retaliation law on firm dynamics. I aim to answer these questions using empirical methods. However I also employ theoretical models to better understand real world phenomena. Research interests outside of this include: selection into motorcycling, wildfires, and the impact of political regimes. Please feel free to email me at: <a style = "color: #2b3742" href = "mailto: bwilson@uoregon.edu">bwilson@uoregon.edu</a>
 
 Outside of academia, you can find me cooking, camping, traveling, or reading/writing contemporary fiction/poetry.
 
