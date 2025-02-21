@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Brock M. Wilson"
 title_separator          : "-"
 name                     : &name "Brock M. Wilson"
-description              : &description "Economics Ph.D Student at University of Oregon"
+description              : &description "Assistant Professor at UAA ISER"
 url                      : https://brockwilson.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brockmwilson/brockmwilson.github.io"
@@ -87,12 +87,12 @@ analytics:
 author:
   name             : "Brock M. Wilson"
   avatar           : "grad-photo-small.jpg"
-  bio              : "Economics Ph.D. Student at the University of Oregon"
-  location         : "Eugene, OR"
+  bio              : "Assistant Professor at UAA ISER"
+  location         : "Anchorage, AK"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "bwilson@uoregon.edu"
+  email            : "bmwilson12@alaska.edu"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
