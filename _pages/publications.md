@@ -61,3 +61,11 @@ Why do such a high portion of digital loans result in default? We evaluate two i
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us? </p>
 
+<h1>Media</h1>
+
+<a href = "https://www.adn.com/business-economy/2024/12/25/alaskans-backed-a-measure-to-raise-the-minimum-wage-and-establish-sick-leave-now-employers-are-trying-to-make-it-work/">Alaskans backed a measure to raise the minimum wage and establish sick leave. Now employers are trying to make it work.</a>
+
+<a href = "https://open.spotify.com/episode/324MZgkEknAlgD32U3IwCF?si=a34879b3625d4e3b">Brock Wilson, PhD: Labor Economist at UAA's Institute of Social & Economic Research (ISER)</a>
+
+
+
