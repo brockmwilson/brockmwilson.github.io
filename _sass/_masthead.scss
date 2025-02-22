@@ -53,6 +53,13 @@
 }
 */
 
+@font-face {
+    font-family: "Helvetica Neue Condensed Bold";
+    src: url("fonts/HelveticaNeueCondensedBold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
 .masthead {
   position: relative; 
   border-bottom: 5px solid #627e97;
