@@ -63,7 +63,19 @@ Why do such a high portion of digital loans result in default? We evaluate two i
 
 <h1>Media</h1>
 
+<h2>News</h2>
+
 <a href = "https://www.adn.com/business-economy/2024/12/25/alaskans-backed-a-measure-to-raise-the-minimum-wage-and-establish-sick-leave-now-employers-are-trying-to-make-it-work/">Alaskans backed a measure to raise the minimum wage and establish sick leave. Now employers are trying to make it work.</a>
+
+<a href = "https://alaskapublic.org/news/politics/2025-03-13/disparaging-dismissals-aside-alaskas-fired-federal-workers-file-for-unemployment">Disparaging dismissals aside, Alaska’s fired federal workers file for unemployment</a>
+
+<a href = "https://www.adn.com/politics/2025/03/13/138-fired-federal-employees-have-applied-for-unemployment-insurance-in-alaska/">At least 138 fired federal employees have applied for unemployment insurance in Alaska</a>
+
+<h2>Expert Testimony</h2>
+
+<a href = "https://www.akleg.gov/basis/Meeting/Detail?Meeting=HJUD%202025-03-12%2013:00:00#tab4_4e">Economic Contributions of Federal Civilian Workers in Alaska</a>
+
+<h2>Podcasts</h2>
 
 <a href = "https://open.spotify.com/episode/324MZgkEknAlgD32U3IwCF?si=a34879b3625d4e3b">Brock Wilson, PhD: Labor Economist at UAA's Institute of Social & Economic Research (ISER)</a>
 
