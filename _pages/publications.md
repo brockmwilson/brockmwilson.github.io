@@ -61,6 +61,8 @@ Why do such a high portion of digital loans result in default? We evaluate two i
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us? </p>
 
+<hr>
+
 <h1>Media</h1>
 
 <h2>News</h2>
