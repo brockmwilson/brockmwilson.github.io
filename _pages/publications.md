@@ -31,13 +31,13 @@ img {
 Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
 </p>
 
-<p style="font-size: 6; font-style: italic; margin-bottom: -15px">
+<p style="font-size: 6; font-style: italic;"> Revise and Resubmit, Labour Economics</p>
+
+<p style="font-size: 6; margin-bottom: -15px">
 <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf">
 Link to paper
 </a>
 </p>
-
-<p style="font-size: 6; font-style: italic;"> Revise and Resubmit, Labour Economics</p>
 
 ![](images/pension-labor-outcomes2.png)
 
