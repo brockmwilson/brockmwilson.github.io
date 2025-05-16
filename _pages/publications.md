@@ -28,16 +28,12 @@ img {
 {% endfor %}
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
+<a href = "href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf">
 Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
+</a>
 </p>
 
 <p style="font-size: 6; font-style: italic;"> Revise and Resubmit, Labour Economics</p>
-
-<p style="font-size: 6; margin-bottom: -15px">
-<a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf">
-Link to paper
-</a>
-</p>
 
 ![](images/pension-labor-outcomes2.png)
 
