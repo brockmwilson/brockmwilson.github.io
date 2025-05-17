@@ -27,6 +27,8 @@ img {
   {% include archive-single.html %}
 {% endfor %}
 
+<hr style="border: none; height: 2px; background-color: black;">
+
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
   <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf" style="text-decoration: none; color: navy;">
     Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
