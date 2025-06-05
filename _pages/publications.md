@@ -46,9 +46,6 @@ I exploit a policy change for U.S. federal workers’ pension benefits to estima
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Disability-Based Affirmative Action: How Federal Agencies Satisfied Federal Mandates (with Glen Waddell) </p>
 
-<p style="margin-left: 5%; margin-right: 20%;"> 
-</p>
-
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
   <a href="http://brockmwilson.github.io/files/BKPW_2025.05.24.pdf" style="text-decoration: none; color: navy;">
     Rehabilitating delinquent digital borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
