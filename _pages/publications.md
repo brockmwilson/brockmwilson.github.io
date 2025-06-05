@@ -54,10 +54,6 @@ The U.S. Equal Employment Opportunity Commission issued a ruling that required f
 
 <p style="font-size: 6; font-style: italic;"> Under Review</p>
 
-<p style="margin-left: 5%; margin-right: 20%;"> 
-Why do such a high portion of digital loans result in default? We evaluate two interventions designed to stimulate the repayment of delinquent digital loans. In a field experiment with a mobile digital lender, we will offer repayment plans and a notification of conditional eligibility for a future loan to delinquent borrowers.  Using a 2x2 experimental design and administrative data from the lender, we will identify the causal impact of each intervention, on repayment rates, and future credit-seeking and repayment behavior.  Using baseline and endline phone surveys, we will also identify impacts on borrower well-being, beliefs about the value of credit, and overall financial inclusion.
-</p>
-
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us? </p>
 
 <hr style="border: none; height: 2px; background-color: black;">
