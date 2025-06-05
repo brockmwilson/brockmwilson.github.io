@@ -50,7 +50,11 @@ I exploit a policy change on U.S. federal workers’ pension benefits to estimat
 The U.S. Equal Employment Opportunity Commission issued a ruling that required federal agencies to engage in disability-based affirmative action. Representation quotas were set separately for targeted and non-targeted disabilities, and for upper- and lower-level employees. With heterogeneity in the cost of accommodating different disabilities and a representation quota, up to and including a mandate to provide personal assistance services when needed, how agencies meet their quotas need not align with the spirit of the ruling. In this paper we document the pattern of hiring, retention, and separations across eight federal agencies, and show that hiring does not explain the increase in individuals with disability. Instead, there is evidence that individuals revealed their disability, specifically managers and individuals with hearing loss or vision loss.
 </p>
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> A Second Chance at Financial Inclusion: The Impact of Repayment Plans and Incentives on Delinquent Digital Borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
+  <a href="http://brockmwilson.github.io/files/BKPW_2025.05.24.pdf" style="text-decoration: none; color: navy;">
+    Rehabilitating delinquent digital borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
+  </a>
+</p>
 
 <p style="font-size: 6; font-style: italic;"> Under Review</p>
 
