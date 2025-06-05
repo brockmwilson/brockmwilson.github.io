@@ -48,7 +48,7 @@ I exploit a policy change for U.S. federal workers’ pension benefits to estima
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
   <a href="http://brockmwilson.github.io/files/BKPW_20250524.pdf" style="text-decoration: none; color: navy;">
-    Rehabilitating delinquent digital borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
+    Rehabilitating Delinquent Digital Borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
   </a>
 </p>
 
