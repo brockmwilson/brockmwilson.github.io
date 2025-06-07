@@ -45,8 +45,10 @@ h1 {
 <!-- Dropdown for the Abstract and Image -->
 <details>
   <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer; 
-          border: 2px solid navy; border-radius: 15px; padding: 10px 20px; 
-          background-color: #f0f0f0; color: navy; transition: all 0.3s ease;">
+          display: inline-block; 
+          border: 2px solid navy; border-radius: 15px; 
+          padding: 5px 10px; background-color: #f0f0f0; 
+          color: navy; transition: all 0.3s ease;">
     Click to view the abstract and image
   </summary>
 
