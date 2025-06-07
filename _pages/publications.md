@@ -32,6 +32,8 @@ h1 {
   {% include archive-single.html %}
 {% endfor %}
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
@@ -49,15 +51,20 @@ h1 {
           border: 2px solid navy; border-radius: 15px; 
           padding: 5px 10px; background-color: #f0f0f0; 
           color: navy; transition: all 0.3s ease;">
-    Click to view the abstract and image
+    Expand to view abstract and images
   </summary>
 
-  <p style="font-size: 1em; margin-top: 10px;"> 
-    I exploit a policy change for U.S. federal workers’ pension benefits to estimate the effect of pension generosity on worker retirement, retention, and recruitment. The policy increased pensions by 16-25%. I find there is a 30.3% decrease in job quits for permanent workers. However, there is little evidence that pension generosity has an effect on new hires. This suggests salience may play a role in how workers value pensions. Additionally, I find a large heterogeneous labor supply response to pension generosity. Altogether, this shows that pension generosity is effective in retaining workers and may have important implications for workforce planning.
-  </p>
+  <!-- Box around abstract when expanded -->
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-top: 10px;">
+    <p style="font-size: 1em; margin-top: 10px;"> 
+      I exploit a policy change for U.S. federal workers’ pension benefits to estimate the effect of pension generosity on worker retirement, retention, and recruitment. The policy increased pensions by 16-25%. I find there is a 30.3% decrease in job quits for permanent workers. However, there is little evidence that pension generosity has an effect on new hires. This suggests salience may play a role in how workers value pensions. Additionally, I find a large heterogeneous labor supply response to pension generosity. Altogether, this shows that pension generosity is effective in retaining workers and may have important implications for workforce planning.
+    </p>
+  </div>
 
   <img src="images/pension-labor-outcomes2.png" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
 </details>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
@@ -76,9 +83,7 @@ h1 {
 I exploit a policy change for U.S. federal workers’ pension benefits to estimate the effect of pension generosity on worker retirement, retention and recruitment. The policy increased pensions by 16-25%. I find there is a 30.3% decrease in job quits for permanent workers. However, there is little evidence that pension generosity has an effect on new hires. This suggests salience may play a role in how workers value pensions. Additionally, I find a large heterogeneous labor supply response to pension generosity. Altogether, this shows that pension generosity is effective in retaining workers and may have important implications for workforce planning.
 </p>
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
-
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Disability-Based Affirmative Action: How Federal Agencies Satisfied Federal Mandates (with Glen Waddell) </p>
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
@@ -90,9 +95,17 @@ I exploit a policy change for U.S. federal workers’ pension benefits to estima
 
 <p style="font-size: 6; font-style: italic;"> Under Review</p>
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us? </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Disability-Based Affirmative Action: How Federal Agencies Satisfied Federal Mandates (with Glen Waddell) </p>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us? (with Glen Waddell) </p>
 
 <hr style="border: none; height: 2px; background-color: black;">
 
