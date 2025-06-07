@@ -60,7 +60,7 @@ h1 {
       I exploit a policy change for U.S. federal workers’ pension benefits to estimate the effect of pension generosity on worker retirement, retention, and recruitment. The policy increased pensions by 16-25%. I find there is a 30.3% decrease in job quits for permanent workers. However, there is little evidence that pension generosity has an effect on new hires. This suggests salience may play a role in how workers value pensions. Additionally, I find a large heterogeneous labor supply response to pension generosity. Altogether, this shows that pension generosity is effective in retaining workers and may have important implications for workforce planning.
     </p>
 
-  <img src="images/pension-labor-outcomes2.png" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
+  <img src="images/pension-labor-outcomes2.jpg" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
   </div>
 </details>
 
