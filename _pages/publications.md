@@ -79,9 +79,13 @@ I exploit a policy change for U.S. federal workers’ pension benefits to estima
 
 <a href = "https://www.adn.com/politics/2025/03/13/138-fired-federal-employees-have-applied-for-unemployment-insurance-in-alaska/">At least 138 fired federal employees have applied for unemployment insurance in Alaska</a>
 
+<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+
 <h2>Expert Testimony</h2>
 
 <a href = "https://www.akleg.gov/basis/Meeting/Detail?Meeting=HJUD%202025-03-12%2013:00:00#tab4_4e">Economic Contributions of Federal Civilian Workers in Alaska</a>
+
+<hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
 <h2>Podcasts</h2>
 
