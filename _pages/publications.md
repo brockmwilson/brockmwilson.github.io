@@ -86,7 +86,8 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us? (with Glen Waddell) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 150px;"> Selection Into Motorcycling: What Can Licensing Laws Tell Us?<br> 
+(with Glen Waddell) </p>
 
 <hr style="border: none; height: 2px; background-color: black;">
 
