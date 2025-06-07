@@ -40,6 +40,27 @@ page__title {
   </a>
 </p>
 
+<p style="font-size: 6; font-style: italic;"> Revise and Resubmit, Labour Economics</p>
+
+<!-- Dropdown for the Abstract and Image -->
+<details>
+  <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer;">Click to view the abstract and image</summary>
+
+  <p style="font-size: 1em; margin-top: 10px;"> 
+    I exploit a policy change for U.S. federal workers’ pension benefits to estimate the effect of pension generosity on worker retirement, retention, and recruitment. The policy increased pensions by 16-25%. I find there is a 30.3% decrease in job quits for permanent workers. However, there is little evidence that pension generosity has an effect on new hires. This suggests salience may play a role in how workers value pensions. Additionally, I find a large heterogeneous labor supply response to pension generosity. Altogether, this shows that pension generosity is effective in retaining workers and may have important implications for workforce planning.
+  </p>
+
+  <img src="images/pension-labor-outcomes2.png" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
+</details>
+
+<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
+  <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf" style="text-decoration: none; color: navy;">
+    Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
+  </a>
+</p>
+
 
 <p style="font-size: 6; font-style: italic;"> Revise and Resubmit, Labour Economics</p>
 
