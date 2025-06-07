@@ -16,7 +16,7 @@ img {
     align-items: center;
 }
 
-page__title {
+h1 {
   font-size: 2.563em
 }
 
@@ -44,7 +44,11 @@ page__title {
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
-  <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer;">Click to view the abstract and image</summary>
+  <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer; 
+          border: 2px solid navy; border-radius: 15px; padding: 10px 20px; 
+          background-color: #f0f0f0; color: navy; transition: all 0.3s ease;">
+    Click to view the abstract and image
+  </summary>
 
   <p style="font-size: 1em; margin-top: 10px;"> 
     I exploit a policy change for U.S. federal workers’ pension benefits to estimate the effect of pension generosity on worker retirement, retention, and recruitment. The policy increased pensions by 16-25%. I find there is a 30.3% decrease in job quits for permanent workers. However, there is little evidence that pension generosity has an effect on new hires. This suggests salience may play a role in how workers value pensions. Additionally, I find a large heterogeneous labor supply response to pension generosity. Altogether, this shows that pension generosity is effective in retaining workers and may have important implications for workforce planning.
@@ -91,6 +95,8 @@ I exploit a policy change for U.S. federal workers’ pension benefits to estima
 <hr style="border: none; height: 2px; background-color: black;">
 
 <h1>Media</h1>
+
+<hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
 <h2>News</h2>
 
