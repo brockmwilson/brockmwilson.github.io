@@ -70,7 +70,8 @@ h1 {
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
   <a href="http://brockmwilson.github.io/files/BKPW_20250524.pdf" style="text-decoration: none; color: navy;">
-    Rehabilitating Delinquent Digital Borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
+    Rehabilitating Delinquent Digital Borrowers<br>
+    (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
   </a>
 </p>
 
@@ -80,7 +81,8 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Disability-Based Affirmative Action: How Federal Agencies Satisfied Federal Mandates (with Glen Waddell) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Disability-Based Affirmative Action: How Federal Agencies Satisfied Federal Mandates<br>
+(with Glen Waddell) </p>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
