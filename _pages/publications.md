@@ -61,8 +61,8 @@ h1 {
     </p>
 
   <img src="images/pension-labor-outcomes2.png" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
+  </div>
 </details>
-</div>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
