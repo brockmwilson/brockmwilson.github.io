@@ -82,7 +82,7 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> 
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
 Rehabilitating Delinquent Digital Borrowers<br>
 (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
 </p>
