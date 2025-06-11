@@ -34,7 +34,7 @@ redirect_from:
   width="45%">
 </p>
 
-I am a Research Assistant Professor in the Institute of Social and Economic Research at the University of Alaska - Anchorage. My recent research has been on the effect of pension generosity on the labor market; understanding the impact of affirmative action for workers with a disability; and implementing strategies to increase repayment rates among borrowers in delinquency. I aim to answer these questions using empirical methods, however I also employ theoretical models. Research interests outside of this include: labor market dynamics, public finance, and individual decision-making within economic contexts. Please feel free to email me at: <a style = "color: #2b3742" href = "mailto: bmwilson12@alaska.edu">bmwilson12@alaska.edu</a>
+I am a Research Assistant Professor in the Institute of Social and Economic Research at the University of Alaska - Anchorage. My recent research has been on the effect of pension generosity on the labor market; understanding the impact of affirmative action for workers with a disability; and implementing strategies to increase repayment rates among borrowers in delinquency. I aim to answer these questions using empirical methods, however I also employ theoretical models. Areas of interest include: labor market dynamics, public finance, and individual decision-making within economic contexts. Please feel free to email me at: <a style = "color: #2b3742" href = "mailto: bmwilson12@alaska.edu">bmwilson12@alaska.edu</a>
 
 <!-- Outside of academia, you can find me cooking, camping, traveling, or reading/writing contemporary fiction/poetry. --> 
 
