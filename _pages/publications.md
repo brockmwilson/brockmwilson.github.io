@@ -94,7 +94,7 @@ h1 {
       We partner with a digital lender in Africa to examine how offering delinquent digital borrowers a strategy to repay their overdue loan (payment plan) and the possibility of regaining access to future credit (renewed eligibility) affects repayment behavior and welfare. The payment plan significantly increases repayment, settlement, and re-borrowing, while eligibility alone has no effect. Although the payment plan has no impact on welfare, the eligibility treatment raises stress and perceived financial insecurity. Our analysis suggests that impatience, time inconsistency, and liquidity constraints could play a role in explaining our results.
     </p>
 
-  <img src="images/repayment-behavior.png" alt="Repayment behavior" style="max-width: 100%; height: auto; margin-top: 10px;">
+  <img src="images/repayment-behavior.jpg" alt="Repayment behavior" style="max-width: 100%; height: auto; margin-top: 10px;">
   </div>
 </details>
 
