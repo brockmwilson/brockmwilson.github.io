@@ -78,6 +78,26 @@ h1 {
 
 <p style="font-size: 6; font-style: italic;"> Under Review</p>
 
+<!-- Dropdown for the Abstract and Image -->
+<details>
+  <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
+          display: inline-block; 
+          border: 0px; border-radius: 15px; 
+          padding: 5px 10px; background-color: #f0f0f0; 
+          color: black; transition: all 0.3s ease;">
+    Click to view abstract
+  </summary>
+
+  <!-- Box around abstract when expanded -->
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-top: 10px;">
+    <p style="font-size: 1em; margin-top: 10px;"> 
+      XXX.
+    </p>
+
+  <img src="images/pension-labor-outcomes2.jpg" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
+  </div>
+</details>
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <!-- <hr style="border: none; height: 2px; background-color: #D3D3D3;">
