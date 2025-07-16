@@ -111,10 +111,38 @@ Rehabilitating Delinquent Digital Borrowers<br>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold;"> Disability-Based Affirmative Action: How Federal Agencies Satisfied Federal Mandates<br>
-(with Glen Waddell) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px">
+  <a href="http://brockmwilson.github.io/files/Waddell-Wilson_Disability-Mandates_20250714.pdf" style="text-decoration: none; color: navy;">
+    How did federal agencies respond to disability quotas?<br>
+    (with Glen Waddell)
+  </a>
+</p>
+
+
+<p style="font-size: 6; font-style: italic;"> Under Review</p>
+
+<!-- Dropdown for the Abstract and Image -->
+<details>
+  <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
+          display: inline-block; 
+          border: 0px; border-radius: 15px; 
+          padding: 5px 10px; background-color: #f0f0f0; 
+          color: black; transition: all 0.3s ease;">
+    Click to view abstract
+  </summary>
+
+  <!-- Box around abstract when expanded -->
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-top: 10px;">
+    <p style="font-size: 1em; margin-top: 10px;"> 
+We study the rollout of two disability related policies that intended to increase representation in the U.S. federal workforce---an executive order to increase employment across all agencies, and a second that mandated quotas be met at each agency. The first of these is followed by a large increase in disability employment. At lower-pay positions, increases in representation are largely through hiring, while at higher-pay positions increases are through updating disability statuses. However, with the quota introduction we find evidence that agencies target the minimum threshold—this lead to declines in disability representation at agencies that were already in compliance.
+    </p>
+
+  <img src="images/disability-mandates.png" alt="" style="max-width: 100%; height: auto; margin-top: 10px;">
+  </div>
+</details>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
