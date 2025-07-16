@@ -135,7 +135,7 @@ Rehabilitating Delinquent Digital Borrowers<br>
   <!-- Box around abstract when expanded -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-top: 10px;">
     <p style="font-size: 1em; margin-top: 10px;"> 
-We study the rollout of two disability related policies that intended to increase representation in the U.S. federal workforce---an executive order to increase employment across all agencies, and a second that mandated quotas be met at each agency. The first of these is followed by a large increase in disability employment. At lower-pay positions, increases in representation are largely through hiring, while at higher-pay positions increases are through updating disability statuses. However, with the quota introduction we find evidence that agencies target the minimum threshold—this lead to declines in disability representation at agencies that were already in compliance.
+We study the rollout of two disability related policies that intended to increase representation in the U.S. federal workforce&mdash;an executive order to increase employment across all agencies, and a second that mandated quotas be met at each agency. The first of these is followed by a large increase in disability employment. At lower-pay positions, increases in representation are largely through hiring, while at higher-pay positions increases are through updating disability statuses. However, with the quota introduction we find evidence that agencies target the minimum threshold&mdash;this lead to declines in disability representation at agencies that were already in compliance.
     </p>
 
   <img src="images/disability-mandates.png" alt="" style="max-width: 100%; height: auto; margin-top: 10px;">
