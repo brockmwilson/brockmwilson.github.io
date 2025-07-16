@@ -121,9 +121,6 @@ Rehabilitating Delinquent Digital Borrowers<br>
   </a>
 </p>
 
-
-<p style="font-size: 6; font-style: italic;"> Under Review</p>
-
 <!-- Dropdown for the Abstract and Image -->
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
