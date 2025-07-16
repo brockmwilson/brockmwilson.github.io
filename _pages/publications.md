@@ -68,14 +68,14 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px">
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/BKPW_20250524.pdf" style="text-decoration: none; color: navy;">
     Rehabilitating Delinquent Digital Borrowers<br>
     (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
   </a>
 </p>
 
-<div style="height: 10px;"></div>
+<div style="height: 1.3em;"></div>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -113,14 +113,14 @@ Rehabilitating Delinquent Digital Borrowers<br>
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px">
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/Waddell-Wilson_Disability-Mandates_20250714.pdf" style="text-decoration: none; color: navy;">
     How did federal agencies respond to disability quotas?<br>
     (with Glen Waddell)
   </a>
 </p>
 
-<div style="height: 10px;"></div>
+<div style="height: 1.3em;"></div>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
