@@ -75,6 +75,7 @@ h1 {
   </a>
 </p>
 
+<div style="height: 10px;"></div>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -118,6 +119,8 @@ Rehabilitating Delinquent Digital Borrowers<br>
     (with Glen Waddell)
   </a>
 </p>
+
+<div style="height: 10px;"></div>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
