@@ -146,7 +146,7 @@ We study the rollout of two disability related policies that intended to increas
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 150px;"> Recruit and Retain: The Role of Retirement Plan Structure for Teachers<br> 
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 150px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers<br> 
 (with Noah Burke) </p>
 
 <!-- <p style="font-size: 6; font-style: italic;"> Available upon request</p> -->
