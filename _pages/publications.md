@@ -36,13 +36,13 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px"> 
   <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf" style="text-decoration: none; color: navy;">
     Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic;"> Accepted with minor revisions: Labour Economics</p>
+<p style="font-size: 6; font-style: italic; margin-top: 0px"> Accepted with minor revisions: Labour Economics</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -118,7 +118,7 @@ Rehabilitating Delinquent Digital Borrowers<br>
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic;"> Under review</p>
+<p style="font-size: 6; font-style: italic; margin-top: 0px"> Under review</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
