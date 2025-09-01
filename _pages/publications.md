@@ -36,7 +36,7 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px"> 
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px"> 
   <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf" style="text-decoration: none; color: navy;">
     Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
   </a>
@@ -68,7 +68,7 @@ h1 {
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px">
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/BKPW_20250524.pdf" style="text-decoration: none; color: navy;">
     Rehabilitating Delinquent Digital Borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
   </a>
@@ -98,21 +98,12 @@ h1 {
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<!-- <hr style="border: none; height: 2px; background-color: #D3D3D3;">
-
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: -15px"> 
-Rehabilitating Delinquent Digital Borrowers<br>
-(with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
-</p>
-
-<p style="font-size: 6; font-style: italic;"> Under Review</p> -->
-
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px">
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/Waddell-Wilson_Disability-Mandates_20250714.pdf" style="text-decoration: none; color: navy;">
     How did federal agencies respond to disability quotas? (with Glen Waddell)
   </a>
@@ -144,7 +135,7 @@ We study the rollout of two disability related policies that intended to increas
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 150px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 150px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
 
 <!-- <p style="font-size: 6; font-style: italic;"> Available upon request</p> -->
 
