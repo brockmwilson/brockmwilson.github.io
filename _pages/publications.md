@@ -42,7 +42,7 @@ h1 {
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic;"> Accepted with minor revisions, Labour Economics</p>
+<p style="font-size: 6; font-style: italic;"> Accepted with minor revisions: Labour Economics</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -70,8 +70,7 @@ h1 {
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/BKPW_20250524.pdf" style="text-decoration: none; color: navy;">
-    Rehabilitating Delinquent Digital Borrowers<br>
-    (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
+    Rehabilitating Delinquent Digital Borrowers (with Alfredo Burlando, Silvia Prina, and Michael Kuhn)
   </a>
 </p>
 
@@ -115,14 +114,11 @@ Rehabilitating Delinquent Digital Borrowers<br>
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/Waddell-Wilson_Disability-Mandates_20250714.pdf" style="text-decoration: none; color: navy;">
-    How did federal agencies respond to disability quotas?<br>
-    (with Glen Waddell)
+    How did federal agencies respond to disability quotas? (with Glen Waddell)
   </a>
 </p>
 
 <p style="font-size: 6; font-style: italic;"> Under review</p>
-
-<div style="height: 1.3em;"></div>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -148,8 +144,7 @@ We study the rollout of two disability related policies that intended to increas
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 150px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers<br> 
-(with Noah Burke) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: bold; margin-bottom: 150px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
 
 <!-- <p style="font-size: 6; font-style: italic;"> Available upon request</p> -->
 
