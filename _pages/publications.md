@@ -17,7 +17,7 @@ img {
 }
 
 h1 {
-  font-size: 2.563em
+  font-size: 2em
 }
 
 </style>
