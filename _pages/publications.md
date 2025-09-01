@@ -42,7 +42,7 @@ h1 {
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic;"> Revise and Resubmit, Labour Economics</p>
+<p style="font-size: 6; font-style: italic;"> Accepted with minor revisions, Labour Economics</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -119,6 +119,8 @@ Rehabilitating Delinquent Digital Borrowers<br>
     (with Glen Waddell)
   </a>
 </p>
+
+<p style="font-size: 6; font-style: italic;"> Under review</p>
 
 <div style="height: 1.3em;"></div>
 
