@@ -135,15 +135,15 @@ We study the rollout of two disability related policies that intended to increas
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 150px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
 
 <!-- <p style="font-size: 6; font-style: italic;"> Available upon request</p> -->
 
-<p style="font-size: 22px; font-weight: bold; margin-bottom: -15px">
+<p style="font-size: em; font-weight: bold; margin-bottom: -15px">
 Works in Progress
 </p>
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 150px;"> Till Coverage Do Us Part: Evidence on Marriage and Insurance Decisions </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 20px;"> Till Coverage Do Us Part: Evidence on Marriage and Insurance Decisions </p>
 
 <hr style="border: none; height: 2px; background-color: black;">
 
