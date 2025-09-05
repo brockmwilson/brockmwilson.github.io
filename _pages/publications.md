@@ -145,7 +145,7 @@ We study the rollout of two disability related policies that intended to increas
 Works in Progress
 </p>
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 20px;"> Till Coverage Do Us Part: Evidence on Marriage and Insurance Decisions </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 40px;"> Till Coverage Do Us Part: Evidence on Marriage and Insurance Decisions </p>
 
 <hr style="border: none; height: 2px; background-color: black;">
 
