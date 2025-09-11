@@ -42,7 +42,7 @@ h1 {
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic; margin-top: 0px"> Revise and Resubmit: Labour Economics</p>
+<p style="font-size: 6; font-style: italic; margin-top: 0px"> Accepted with minor revisions: Labour Economics</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
