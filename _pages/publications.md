@@ -34,6 +34,10 @@ h1 {
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+<p style="font-size: 2em; font-weight: bold; margin-bottom: 0px">
+Publications
+</p>
+
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px"> 
@@ -42,7 +46,11 @@ h1 {
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic; margin-top: 0px"> Accepted: Labour Economics</p>
+<span style="font-size: 8pt;">Forthcoming, <span style="font-style: italic;">Labour Economics</span></span>
+
+<p style="font-size: 2em; font-weight: bold; margin-bottom: 0px">
+Working Papers
+</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
