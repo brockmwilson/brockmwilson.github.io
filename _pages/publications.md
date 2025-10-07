@@ -34,9 +34,15 @@ h1 {
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+<hr style="border: none; height: 3px; background-color: black;">
+
 <p style="font-size: 1.45em; font-weight: bold; margin-bottom: 0px">
 Publications
 </p>
+
+<hr style="border: none; height: 1px; background-color: black;">
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px"> 
   <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf" style="text-decoration: none; color: navy;">
@@ -162,6 +168,8 @@ Works in Progress
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
+
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 40px;"> Life Insurance and Adverse Selection: Evidence from FEGLI </p>
 
 <hr style="border: none; height: 1px; background-color: #D3D3D3;">
@@ -172,6 +180,8 @@ Works in Progress
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 40px;"> Till Coverage Do Us Part: Evidence on Marriage and Insurance Decisions </p>
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <hr style="border: none; height: 3px; background-color: black;">
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
@@ -180,7 +190,7 @@ Works in Progress
 Media
 </p>
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 0px; background-color: #D3D3D3;">
 
 <h2>News</h2>
 
@@ -190,13 +200,13 @@ Media
 
 <a href = "https://www.adn.com/politics/2025/03/13/138-fired-federal-employees-have-applied-for-unemployment-insurance-in-alaska/">At least 138 fired federal employees have applied for unemployment insurance in Alaska</a>
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 0px; background-color: #D3D3D3;">
 
 <h2>Expert Testimony</h2>
 
 <a href = "https://www.akleg.gov/basis/Meeting/Detail?Meeting=HJUD%202025-03-12%2013:00:00#tab4_4e">Economic Contributions of Federal Civilian Workers in Alaska</a>
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 0px; background-color: #D3D3D3;">
 
 <h2>Podcasts</h2>
 
