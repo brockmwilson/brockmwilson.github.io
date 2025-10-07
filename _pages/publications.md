@@ -92,7 +92,9 @@ Working Papers
   </a>
 </p>
 
-<div style="height: 1.3em;"></div>
+<!-- <div style="height: 1.3em;"></div> -->
+
+<p style="font-size: 6; font-style: italic; margin-top: 0px"> Submitted</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -154,9 +156,33 @@ We study the rollout of two disability related policies that intended to increas
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
+<p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px">
+  <a href="http://brockmwilson.github.io/files/Burke-Wilson_DB_DC_retention.pdf" style="text-decoration: none; color: navy;">
+    Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke)
+  </a>
+</p>
 
-<!-- <p style="font-size: 6; font-style: italic;"> Available upon request</p> -->
+<p style="font-size: 6; font-style: italic; margin-top: 0px"> Submitted</p>
+
+<!-- Dropdown for the Abstract and Image -->
+<details>
+  <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
+          display: inline-block; 
+          border: 0px; border-radius: 15px; 
+          padding: 5px 10px; background-color: #f0f0f0; 
+          color: black; transition: all 0.3s ease;">
+    Click to view abstract
+  </summary>
+
+  <!-- Box around abstract when expanded -->
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-top: 10px;">
+    <p style="font-size: 1em; margin-top: 10px;"> 
+In 2006, the State of Alaska transitioned from a defined benefit retirement system to a defined contribution system for all newly hired public education employees&mdash;a majority of which are teachers. For employees, these plans accrue approximately similar wealth at retirement. Using administrative records, we examine whether the reform altered labor market outcomes for new cohorts. At the threshold of policy implementation, there is no significant change in new hires for both quantity and observable characteristics such as age or previous experience. Further, there is no significant difference in retention up to 14 years post-policy implementation.
+    </p>
+
+  <img src="images/db-dc-change.png" alt="" style="max-width: 100%; height: auto; margin-top: 10px;">
+  </div>
+</details>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
