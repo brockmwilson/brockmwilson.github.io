@@ -38,15 +38,16 @@ h1 {
 Publications
 </p>
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
-
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px"> 
   <a href="http://brockmwilson.github.io/files/Wilson-RetirementRetentionRecruitment.pdf" style="text-decoration: none; color: navy;">
     Retirement, Retention, Recruitment: Evidence from a Federal Pension Policy
   </a>
 </p>
 
-<p style="font-size: 6;">Forthcoming, <p style="font-style: italic;">Labour Economics</p></p>
+<p style="font-size: 8pt; margin: 0;">
+  Forthcoming, <span style="font-style: italic;">Labour Economics</span>
+</p>
+
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -68,6 +69,8 @@ Publications
   </div>
 </details>
 
+<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <p style="font-size: 1.45em; font-weight: bold; margin-bottom: 0px">
@@ -75,8 +78,6 @@ Working Papers
 </p>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/BKPW_20250524.pdf" style="text-decoration: none; color: navy;">
@@ -166,7 +167,9 @@ Works in Progress
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<h1>Media</h1>
+<p style="font-size: 1.45em; font-weight: bold; margin-bottom: 0px">
+Media
+</p>
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
