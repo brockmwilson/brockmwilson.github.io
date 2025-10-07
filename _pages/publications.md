@@ -48,10 +48,6 @@ Publications
 
 <p style="font-size: 6;">Forthcoming, <p style="font-style: italic;">Labour Economics</p></p>
 
-<p style="font-size: 2em; font-weight: bold; margin-bottom: 0px">
-Working Papers
-</p>
-
 <!-- Dropdown for the Abstract and Image -->
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
@@ -71,6 +67,12 @@ Working Papers
   <img src="images/pension-labor-outcomes2.jpg" alt="Pension Labor Outcomes" style="max-width: 100%; height: auto; margin-top: 10px;">
   </div>
 </details>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+<p style="font-size: 2em; font-weight: bold; margin-bottom: 0px">
+Working Papers
+</p>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
@@ -105,9 +107,6 @@ Working Papers
 </details>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
@@ -146,6 +145,8 @@ We study the rollout of two disability related policies that intended to increas
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
 
 <!-- <p style="font-size: 6; font-style: italic;"> Available upon request</p> -->
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <hr style="border: none; height: 2px; background-color: #D3D3D3;">
 
