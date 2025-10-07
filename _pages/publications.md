@@ -46,7 +46,7 @@ Publications
   </a>
 </p>
 
-<span style="font-size: 8pt;">Forthcoming, <span style="font-style: italic;">Labour Economics</span></span>
+<p style="font-size: 6;">Forthcoming, <p style="font-style: italic;">Labour Economics</p></p>
 
 <p style="font-size: 2em; font-weight: bold; margin-bottom: 0px">
 Working Papers
