@@ -44,10 +44,9 @@ Publications
   </a>
 </p>
 
-<p style="font-size: 8pt; margin: 0;">
+<p style="font-size: 6; margin-top: 0px;">
   Forthcoming, <span style="font-style: italic;">Labour Economics</span>
 </p>
-
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -69,7 +68,7 @@ Publications
   </div>
 </details>
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 3px; background-color: #D3D3D3;">
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
@@ -109,7 +108,9 @@ Working Papers
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px">
   <a href="http://brockmwilson.github.io/files/Waddell-Wilson_Disability-Mandates_20250714.pdf" style="text-decoration: none; color: navy;">
@@ -141,7 +142,9 @@ We study the rollout of two disability related policies that intended to increas
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 0px;"> Recruitment, Retention, and Retirement Plan Structure: Evidence from Teachers (with Noah Burke) </p>
 
@@ -149,7 +152,9 @@ We study the rollout of two disability related policies that intended to increas
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<hr style="border: none; height: 2px; background-color: #D3D3D3;">
+<hr style="border: none; height: 3px; background-color: #D3D3D3;">
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <p style="font-size: 1.45em; font-weight: bold; margin-bottom: 0px">
 Works in Progress
@@ -159,11 +164,15 @@ Works in Progress
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 40px;"> Life Insurance and Adverse Selection: Evidence from FEGLI </p>
 
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
+
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 40px;"> Gender and Employee Performance Reviews: Thirty Years of Evidence </p>
+
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
 
 <p style="font-size: 1.25em; text-decoration: none; font-weight: normal; margin-bottom: 40px;"> Till Coverage Do Us Part: Evidence on Marriage and Insurance Decisions </p>
 
-<hr style="border: none; height: 2px; background-color: black;">
+<hr style="border: none; height: 3px; background-color: black;">
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
