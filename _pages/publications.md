@@ -34,13 +34,13 @@ h1 {
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<hr style="border: none; height: 3px; background-color: black;">
+<hr style="border: none; height: 3px; background-color: #D3D3D3;">
 
 <p style="font-size: 1.45em; font-weight: bold; margin-bottom: 0px">
 Publications
 </p>
 
-<hr style="border: none; height: 1px; background-color: black;">
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
@@ -81,6 +81,8 @@ Publications
 <p style="font-size: 1.45em; font-weight: bold; margin-bottom: 0px">
 Working Papers
 </p>
+
+<hr style="border: none; height: 1px; background-color: #D3D3D3;">
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
