@@ -51,7 +51,7 @@ Publications
 </p>
 
 <p style="font-size: 6; margin-top: 0px;">
-  Forthcoming, <span style="font-style: italic;">Labour Economics</span>
+  <span style="font-style: italic;">Labour Economics</span>, 2025
 </p>
 
 <!-- Dropdown for the Abstract and Image -->
