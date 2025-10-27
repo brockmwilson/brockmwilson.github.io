@@ -96,8 +96,6 @@ Working Papers
 
 <p style="font-size: 6; margin-top: 0px"> Submitted</p>
 
-<p style="font-size: 0.85em; color: #777; margin-top: 0.1em;">Submitted</p>
-
 <!-- Dropdown for the Abstract and Image -->
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
