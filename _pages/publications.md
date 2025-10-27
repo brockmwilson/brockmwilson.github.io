@@ -94,7 +94,7 @@ Working Papers
 
 <!-- <div style="height: 1.3em;"></div> -->
 
-<p style="font-size: 6; font-style: italic; margin-top: 0px"> Submitted</p>
+<p style="font-size: 6; margin-top: 0px"> Submitted</p>
 
 <p style="font-size: 0.85em; color: #777; margin-top: 0.1em;">Submitted</p>
 
@@ -130,7 +130,7 @@ Working Papers
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic; margin-top: 0px"> Under review</p>
+<p style="font-size: 6; margin-top: 0px"> Under review</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
@@ -164,7 +164,7 @@ We study the rollout of two disability related policies that intended to increas
   </a>
 </p>
 
-<p style="font-size: 6; font-style: italic; margin-top: 0px"> Submitted</p>
+<p style="font-size: 6; margin-top: 0px"> Submitted</p>
 
 <!-- Dropdown for the Abstract and Image -->
 <details>
