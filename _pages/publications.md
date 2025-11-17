@@ -54,6 +54,10 @@ Publications
   <span style="font-style: italic;">Labour Economics</span>, 2025
 </p>
 
+<a style="font-size: 6; margin-top: 0px;" href="https://doi.org/10.1016/j.labeco.2025.102812" style="text-decoration: none; color: navy;">
+  Published version
+</a>
+
 <!-- Dropdown for the Abstract and Image -->
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer; 
